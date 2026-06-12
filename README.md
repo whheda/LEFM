@@ -38,8 +38,10 @@ While the proposed model is trained and evaluated primarily on sub-meter imagery
 
 
 ## Acknowledgments
-[mmpretain](https://github.com/open-mmlab/mmpretrain)
-[SegEarth-R1](https://github.com/earth-insights/SegEarth-R1)
-[HIPIE](https://github.com/berkeley-hipie/HIPIE)
-[SkysenseO](https://github.com/zqcrafts/SkySense-O)
-[SkySensePlusPlus](https://github.com/kang-wu/SkySensePlusPlus)
+[mmpretain](https://github.com/open-mmlab/mmpretrain), 
+[SegEarth-R1](https://github.com/earth-insights/SegEarth-R1), 
+[SegEarth-OV](https://github.com/likyoo/SegEarth-OV), 
+[HIPIE](https://github.com/berkeley-hipie/HIPIE), 
+[SkysenseO](https://github.com/zqcrafts/SkySense-O), 
+[SkySensePlusPlus](https://github.com/kang-wu/SkySensePlusPlus), 
+[ODISE](https://github.com/NVlabs/ODISE).
