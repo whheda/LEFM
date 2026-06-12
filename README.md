@@ -1,4 +1,4 @@
-# LEFM
+# Land Entity Foundation Model (LEFM)
 remote sensing visual-language foundation model for Open World Land Entity Representation of Earth Observation
 
 
@@ -35,3 +35,11 @@ Figure 3. Overview of the Entity contextualized knowledge graph, with 574 entity
 
 ## 🔥 What is the land entity recognizability boundary in terms of the spatial resolution of the satellite remote sensing images?
 While the proposed model is trained and evaluated primarily on sub-meter imagery (~0.5 m), the recognizability of land entities varies across scales. At ~0.5 m resolution, both object entities (e.g., vehicle, tree, airplane) and material entities (e.g., forest, water) can be effectively distinguished. When the resolution decreases to 10 m (e.g., Sentinel-2), only 20.9% entity types remain recognizable, and only 12% entity types remain when the resolution further degraded to 30m resolution (i.e., Landsat-9). The specific curation of the recognizability boundary for each entity is provided in [LERP_Resolution_Recognizability.xlsx](https://pan.baidu.com/s/1gdxDoNEAdx0WO3xRnk-Omg), code=ewbm.
+
+
+## Acknowledgments
+[mmpretain](https://github.com/open-mmlab/mmpretrain)
+[SegEarth-R1](https://github.com/earth-insights/SegEarth-R1)
+[HIPIE](https://github.com/berkeley-hipie/HIPIE)
+[SkysenseO](https://github.com/zqcrafts/SkySense-O)
+[SkySensePlusPlus](https://github.com/kang-wu/SkySensePlusPlus)
