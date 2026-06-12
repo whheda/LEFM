@@ -2,7 +2,7 @@
 remote sensing visual-language foundation model for Open World Land Entity Representation of Earth Observation
 
 ## 📢 Latest Updates
-[2025.06.xx] Add the code and pretrained model soon.
+[2025.06.xx] Add the code and pretrained model soon.<br>
 [2026.06.12] Add the essential supplementary files.
 
 ## supplementary info
@@ -55,5 +55,5 @@ For quantitative assessment, owing to the limited labelled samples of 593 entiti
 [SkySensePlusPlus](https://github.com/kang-wu/SkySensePlusPlus), 
 [ODISE](https://github.com/NVlabs/ODISE), 
 [Mask2Former](https://github.com/facebookresearch/Mask2Former), 
-[MaskDINO](https://github.com/facebookresearch/Mask2Former).
+[MaskDINO](https://github.com/IDEA-Research/MaskDINO).
 
