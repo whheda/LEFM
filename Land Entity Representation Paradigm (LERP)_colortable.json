@@ -1,0 +1,3002 @@
+{
+  "sparse_vegetation": [
+    102,
+    153,
+    102
+  ],
+  "protection_belt": [
+    48,
+    100,
+    48
+  ],
+  "pine_forest": [
+    20,
+    70,
+    20
+  ],
+  "poplar_forest": [
+    50,
+    110,
+    60
+  ],
+  "arbor": [
+    40,
+    90,
+    40
+  ],
+  "oak_planting_area": [
+    30,
+    80,
+    35
+  ],
+  "willow_tree": [
+    70,
+    130,
+    90
+  ],
+  "coconut_tree": [
+    60,
+    100,
+    50
+  ],
+  "palm_tree": [
+    55,
+    85,
+    45
+  ],
+  "forest_farm": [
+    60,
+    120,
+    60
+  ],
+  "mountain_forest": [
+    35,
+    70,
+    25
+  ],
+  "shrubland": [
+    60,
+    130,
+    80
+  ],
+  "low_shrubs": [
+    80,
+    150,
+    100
+  ],
+  "low_plants": [
+    90,
+    170,
+    120
+  ],
+  "marshland": [
+    70,
+    120,
+    70
+  ],
+  "orchard_trees": [
+    70,
+    160,
+    110
+  ],
+  "olive_grove": [
+    65,
+    130,
+    85
+  ],
+  "vineyard": [
+    75,
+    140,
+    95
+  ],
+  "grape_tree": [
+    70,
+    120,
+    80
+  ],
+  "plantation": [
+    60,
+    150,
+    100
+  ],
+  "dead_tree": [
+    50,
+    90,
+    120
+  ],
+  "tree": [
+    50,
+    100,
+    50
+  ],
+  "aquatic_plants": [
+    100,
+    140,
+    60
+  ],
+  "duckweed": [
+    90,
+    180,
+    100
+  ],
+  "Open_evergreen_broadleaved_forest": [
+    45,
+    110,
+    60
+  ],
+  "Open_deciduous_broadleaved_forest": [
+    60,
+    140,
+    100
+  ],
+  "Closed_deciduous_broadleaved_forest": [
+    35,
+    90,
+    45
+  ],
+  "Open_evergreen_needle-leaved_forest": [
+    80,
+    100,
+    40
+  ],
+  "Closed_evergreen_needle-leaved_forest": [
+    50,
+    70,
+    20
+  ],
+  "Open_deciduous_needle-leaved_forest": [
+    70,
+    120,
+    60
+  ],
+  "Closed_deciduous_needle-leaved_forest": [
+    40,
+    80,
+    30
+  ],
+  "green_belt": [
+    100,
+    180,
+    100
+  ],
+  "street_trees": [
+    90,
+    160,
+    85
+  ],
+  "landscape_plants": [
+    100,
+    190,
+    120
+  ],
+  "greening_facilities": [
+    120,
+    200,
+    150
+  ],
+  "potted_plant": [
+    90,
+    180,
+    110
+  ],
+  "nursery": [
+    80,
+    170,
+    95
+  ],
+  "flower_bed": [
+    130,
+    100,
+    190
+  ],
+  "hedge": [
+    70,
+    150,
+    70
+  ],
+  "grassland": [
+    100,
+    200,
+    130
+  ],
+  "industrial_grassland": [
+    100,
+    190,
+    150
+  ],
+  "sparse_grassland": [
+    130,
+    210,
+    180
+  ],
+  "weeds": [
+    70,
+    160,
+    110
+  ],
+  "artificial_lawn": [
+    70,
+    200,
+    70
+  ],
+  "grassland_bar": [
+    90,
+    190,
+    160
+  ],
+  "haystack": [
+    80,
+    160,
+    190
+  ],
+  "ranch": [
+    90,
+    180,
+    150
+  ],
+  "flowers": [
+    130,
+    100,
+    220
+  ],
+  "moss": [
+    60,
+    120,
+    70
+  ],
+  "tundra": [
+    140,
+    190,
+    180
+  ],
+  "reed_bed": [
+    90,
+    170,
+    150
+  ],
+  "community_garden": [
+    100,
+    160,
+    200
+  ],
+  "garden": [
+    140,
+    130,
+    210
+  ],
+  "patio": [
+    120,
+    170,
+    190
+  ],
+  "wood": [
+    60,
+    100,
+    140
+  ],
+  "wood_yard": [
+    55,
+    90,
+    120
+  ],
+  "wooden_stake": [
+    70,
+    110,
+    150
+  ],
+  "bamboo_pole": [
+    90,
+    170,
+    150
+  ],
+  "island": [
+    100,
+    180,
+    210
+  ],
+  "lake_island": [
+    90,
+    170,
+    200
+  ],
+  "river_island": [
+    85,
+    160,
+    190
+  ],
+  "lake_center_stone": [
+    120,
+    140,
+    160
+  ],
+  "small_peninsula": [
+    95,
+    175,
+    205
+  ],
+  "wasteland": [
+    90,
+    155,
+    195
+  ],
+  "dry_ground": [
+    110,
+    175,
+    215
+  ],
+  "saline-alkali_land": [
+    160,
+    210,
+    220
+  ],
+  "barren_terrain": [
+    85,
+    150,
+    190
+  ],
+  "bare_land": [
+    80,
+    145,
+    180
+  ],
+  "bare_soil": [
+    83,
+    149,
+    185
+  ],
+  "rocky_landscape": [
+    100,
+    120,
+    140
+  ],
+  "stone_forest": [
+    90,
+    110,
+    130
+  ],
+  "rock_desert": [
+    80,
+    130,
+    160
+  ],
+  "stone_mountain": [
+    100,
+    120,
+    150
+  ],
+  "rocky_ground": [
+    95,
+    125,
+    145
+  ],
+  "gravel_open_space": [
+    100,
+    140,
+    170
+  ],
+  "stone_post": [
+    115,
+    135,
+    155
+  ],
+  "granite_ground": [
+    150,
+    160,
+    170
+  ],
+  "limestone": [
+    170,
+    190,
+    200
+  ],
+  "slate": [
+    100,
+    110,
+    120
+  ],
+  "stone": [
+    120,
+    140,
+    150
+  ],
+  "rock_pile": [
+    115,
+    130,
+    140
+  ],
+  "stone_slope": [
+    100,
+    125,
+    155
+  ],
+  "red_rock_area": [
+    70,
+    90,
+    180
+  ],
+  "sandstone": [
+    100,
+    150,
+    200
+  ],
+  "sandy_gravel_ground": [
+    110,
+    160,
+    195
+  ],
+  "riprap": [
+    120,
+    135,
+    150
+  ],
+  "sand": [
+    150,
+    210,
+    235
+  ],
+  "desert": [
+    120,
+    200,
+    230
+  ],
+  "sandbar": [
+    115,
+    190,
+    220
+  ],
+  "beach": [
+    150,
+    220,
+    245
+  ],
+  "tidal_beach": [
+    130,
+    190,
+    210
+  ],
+  "rocky_beach": [
+    120,
+    150,
+    170
+  ],
+  "rocky_shore": [
+    110,
+    140,
+    160
+  ],
+  "reef": [
+    170,
+    130,
+    60
+  ],
+  "sand_dune": [
+    115,
+    195,
+    225
+  ],
+  "mound": [
+    115,
+    195,
+    225
+  ],
+  "sand_pile": [
+    130,
+    200,
+    220
+  ],
+  "sand_quarry": [
+    120,
+    185,
+    210
+  ],
+  "sand_pit": [
+    110,
+    175,
+    200
+  ],
+  "sand_slope": [
+    120,
+    180,
+    205
+  ],
+  "sandy_soil": [
+    125,
+    180,
+    210
+  ],
+  "mountain_peak": [
+    95,
+    130,
+    160
+  ],
+  "volcanic_cone": [
+    60,
+    80,
+    130
+  ],
+  "lava_ground": [
+    70,
+    80,
+    100
+  ],
+  "mountain": [
+    90,
+    125,
+    150
+  ],
+  "canyon": [
+    80,
+    110,
+    140
+  ],
+  "mountain_gully": [
+    85,
+    130,
+    160
+  ],
+  "earth_slope": [
+    100,
+    150,
+    190
+  ],
+  "plain": [
+    110,
+    180,
+    210
+  ],
+  "hills": [
+    100,
+    160,
+    180
+  ],
+  "hillside": [
+    89,
+    149,
+    169
+  ],
+  "pit": [
+    85,
+    120,
+    150
+  ],
+  "river_embankment": [
+    120,
+    160,
+    180
+  ],
+  "breakwater": [
+    110,
+    140,
+    150
+  ],
+  "field_ridge": [
+    105,
+    160,
+    195
+  ],
+  "plow_furrow": [
+    85,
+    120,
+    165
+  ],
+  "intertidal_zone": [
+    120,
+    160,
+    170
+  ],
+  "shore": [
+    110,
+    160,
+    180
+  ],
+  "coast": [
+    100,
+    140,
+    160
+  ],
+  "riverside": [
+    110,
+    165,
+    185
+  ],
+  "dried_riverbed": [
+    120,
+    170,
+    190
+  ],
+  "river_beach": [
+    125,
+    175,
+    200
+  ],
+  "lakeside": [
+    115,
+    170,
+    190
+  ],
+  "muddy_ground": [
+    80,
+    110,
+    140
+  ],
+  "mud_and_sand_feather_flow": [
+    100,
+    145,
+    175
+  ],
+  "frozen_soil": [
+    190,
+    200,
+    200
+  ],
+  "open-pit_mining_area": [
+    120,
+    180,
+    210
+  ],
+  "quarry": [
+    130,
+    190,
+    220
+  ],
+  "coal_yard": [
+    110,
+    170,
+    200
+  ],
+  "excavation_site": [
+    105,
+    165,
+    195
+  ],
+  "oil_extraction_site": [
+    140,
+    185,
+    225
+  ],
+  "oil_field": [
+    150,
+    190,
+    230
+  ],
+  "mine_pit": [
+    100,
+    155,
+    190
+  ],
+  "pile_of_rubble": [
+    125,
+    175,
+    215
+  ],
+  "irrigation_ditch": [
+    210,
+    150,
+    70
+  ],
+  "water_diversion_channel": [
+    220,
+    160,
+    60
+  ],
+  "reservoir": [
+    200,
+    140,
+    50
+  ],
+  "floodway": [
+    190,
+    130,
+    65
+  ],
+  "moat": [
+    200,
+    150,
+    80
+  ],
+  "drainage_ditch": [
+    185,
+    135,
+    85
+  ],
+  "ditch": [
+    200,
+    145,
+    75
+  ],
+  "water": [
+    220,
+    160,
+    60
+  ],
+  "lake": [
+    210,
+    150,
+    55
+  ],
+  "river": [
+    200,
+    130,
+    40
+  ],
+  "bay": [
+    200,
+    120,
+    30
+  ],
+  "canal": [
+    220,
+    160,
+    70
+  ],
+  "waterfall": [
+    250,
+    190,
+    100
+  ],
+  "turbulent_flow": [
+    240,
+    170,
+    80
+  ],
+  "wetland": [
+    210,
+    180,
+    90
+  ],
+  "puddle": [
+    230,
+    170,
+    95
+  ],
+  "salt_pool": [
+    240,
+    200,
+    130
+  ],
+  "ocean": [
+    180,
+    100,
+    20
+  ],
+  "wave": [
+    250,
+    180,
+    100
+  ],
+  "swimming_pool": [
+    250,
+    190,
+    70
+  ],
+  "fountain_pool": [
+    255,
+    210,
+    100
+  ],
+  "glacier": [
+    250,
+    235,
+    200
+  ],
+  "glacier_stream": [
+    245,
+    210,
+    160
+  ],
+  "glacier_tongue": [
+    255,
+    230,
+    180
+  ],
+  "sea_ice": [
+    255,
+    240,
+    210
+  ],
+  "ice_ridge": [
+    245,
+    225,
+    190
+  ],
+  "snowfield": [
+    255,
+    245,
+    230
+  ],
+  "pond": [
+    235,
+    190,
+    70
+  ],
+  "pond_sugar": [
+    230,
+    190,
+    70
+  ],
+  "fish_pond": [
+    225,
+    190,
+    70
+  ],
+  "lotus_pond": [
+    220,
+    190,
+    70
+  ],
+  "aquaculture_pond": [
+    215,
+    190,
+    70
+  ],
+  "wastewater_pond": [
+    212,
+    190,
+    70
+  ],
+  "purification_pool": [
+    208,
+    190,
+    70
+  ],
+  "sediment": [
+    206,
+    190,
+    70
+  ],
+  "farmhouse": [
+    60,
+    80,
+    210
+  ],
+  "homestead": [
+    50,
+    70,
+    200
+  ],
+  "villa": [
+    70,
+    90,
+    220
+  ],
+  "residential_building": [
+    80,
+    100,
+    230
+  ],
+  "village_building": [
+    40,
+    60,
+    200
+  ],
+  "urban_village_building": [
+    40,
+    50,
+    190
+  ],
+  "apartment": [
+    90,
+    100,
+    240
+  ],
+  "building": [
+    80,
+    88,
+    230
+  ],
+  "office_building": [
+    70,
+    78,
+    250
+  ],
+  "mall": [
+    80,
+    90,
+    245
+  ],
+  "commercial_building": [
+    60,
+    80,
+    240
+  ],
+  "government_building": [
+    70,
+    70,
+    230
+  ],
+  "school_building": [
+    100,
+    118,
+    250
+  ],
+  "community_center": [
+    90,
+    108,
+    245
+  ],
+  "hospital": [
+    120,
+    120,
+    255
+  ],
+  "resort": [
+    90,
+    100,
+    255
+  ],
+  "hotel": [
+    100,
+    110,
+    255
+  ],
+  "gymnasium": [
+    100,
+    90,
+    240
+  ],
+  "abandoned_stadium": [
+    70,
+    60,
+    200
+  ],
+  "Circular_theater": [
+    100,
+    80,
+    245
+  ],
+  "industrial_building": [
+    50,
+    48,
+    180
+  ],
+  "industrial_area": [
+    107,
+    107,
+    107
+  ],
+  "industrial_building_materials": [
+    230,
+    150,
+    230
+  ],
+  "processing_plant": [
+    50,
+    60,
+    190
+  ],
+  "abandoned_industrial_area": [
+    87,
+    87,
+    87
+  ],
+  "natural_gas_factory": [
+    60,
+    40,
+    180
+  ],
+  "chemical_factory": [
+    70,
+    50,
+    190
+  ],
+  "oil_refinery_factory": [
+    60,
+    50,
+    180
+  ],
+  "steel_mill": [
+    40,
+    40,
+    160
+  ],
+  "sand_factory": [
+    50,
+    55,
+    185
+  ],
+  "concrete_factory": [
+    50,
+    60,
+    180
+  ],
+  "wind_power_plant": [
+    60,
+    80,
+    220
+  ],
+  "solar_power_plant": [
+    70,
+    90,
+    230
+  ],
+  "power_station": [
+    60,
+    64,
+    210
+  ],
+  "transformer_substation": [
+    50,
+    52,
+    200
+  ],
+  "substation_office": [
+    70,
+    70,
+    210
+  ],
+  "nuclear_power_station": [
+    60,
+    60,
+    190
+  ],
+  "hydroelectric_power_station": [
+    70,
+    70,
+    220
+  ],
+  "reservoir_office": [
+    80,
+    80,
+    230
+  ],
+  "bunker": [
+    50,
+    40,
+    160
+  ],
+  "military_base": [
+    40,
+    30,
+    150
+  ],
+  "defensive_works": [
+    50,
+    40,
+    165
+  ],
+  "prison": [
+    50,
+    50,
+    180
+  ],
+  "floating_structure": [
+    100,
+    90,
+    230
+  ],
+  "boathouse": [
+    120,
+    110,
+    245
+  ],
+  "fishing_platform": [
+    90,
+    100,
+    230
+  ],
+  "tower": [
+    80,
+    70,
+    200
+  ],
+  "lighting_tower": [
+    90,
+    80,
+    210
+  ],
+  "signal_tower": [
+    90,
+    80,
+    220
+  ],
+  "base_station": [
+    85,
+    75,
+    215
+  ],
+  "sunshade": [
+    100,
+    120,
+    250
+  ],
+  "rain_shelter": [
+    90,
+    110,
+    245
+  ],
+  "metal_shed": [
+    80,
+    100,
+    240
+  ],
+  "plastic_shed": [
+    70,
+    88,
+    230
+  ],
+  "cooling_shed": [
+    60,
+    78,
+    220
+  ],
+  "waiting_shed": [
+    90,
+    98,
+    240
+  ],
+  "ancient_building": [
+    60,
+    62,
+    210
+  ],
+  "ruins": [
+    50,
+    58,
+    200
+  ],
+  "church": [
+    90,
+    80,
+    230
+  ],
+  "mosque": [
+    80,
+    80,
+    220
+  ],
+  "shipyard": [
+    90,
+    70,
+    200
+  ],
+  "offshore_oil_drilling_platform": [
+    100,
+    80,
+    210
+  ],
+  "oil_drilling_rig": [
+    110,
+    90,
+    220
+  ],
+  "bus_stop": [
+    90,
+    100,
+    250
+  ],
+  "train_station": [
+    80,
+    88,
+    240
+  ],
+  "subway_station": [
+    70,
+    80,
+    230
+  ],
+  "service_station": [
+    90,
+    100,
+    245
+  ],
+  "gas_station": [
+    80,
+    86,
+    240
+  ],
+  "railway_platform": [
+    70,
+    80,
+    235
+  ],
+  "covered_bridge": [
+    70,
+    74,
+    220
+  ],
+  "high-speed_rail_station_canopy": [
+    80,
+    86,
+    230
+  ],
+  "toll_station": [
+    80,
+    84,
+    240
+  ],
+  "airport_terminal": [
+    80,
+    90,
+    250
+  ],
+  "boarding_building": [
+    75,
+    85,
+    245
+  ],
+  "aircraft_hangar": [
+    70,
+    80,
+    240
+  ],
+  "dam": [
+    60,
+    70,
+    210
+  ],
+  "spillway_dam": [
+    50,
+    56,
+    200
+  ],
+  "river_dam": [
+    45,
+    55,
+    190
+  ],
+  "water_supply_station": [
+    70,
+    80,
+    220
+  ],
+  "pump_station": [
+    65,
+    75,
+    215
+  ],
+  "water_park": [
+    90,
+    98,
+    245
+  ],
+  "skyscraper": [
+    70,
+    80,
+    250
+  ],
+  "laboratory": [
+    80,
+    70,
+    230
+  ],
+  "observatory": [
+    90,
+    60,
+    220
+  ],
+  "cabin": [
+    60,
+    68,
+    210
+  ],
+  "elevated_building": [
+    70,
+    78,
+    220
+  ],
+  "central_control_building": [
+    80,
+    90,
+    230
+  ],
+  "command_post_building": [
+    50,
+    54,
+    200
+  ],
+  "security_room": [
+    46,
+    50,
+    196
+  ],
+  "protective_wall": [
+    50,
+    50,
+    190
+  ],
+  "enclosure_wall": [
+    60,
+    60,
+    200
+  ],
+  "cooling_tower": [
+    50,
+    40,
+    180
+  ],
+  "shore_stall": [
+    80,
+    90,
+    240
+  ],
+  "stone_stall": [
+    60,
+    66,
+    210
+  ],
+  "manor": [
+    70,
+    76,
+    220
+  ],
+  "playground": [
+    90,
+    96,
+    245
+  ],
+  "garage": [
+    50,
+    60,
+    200
+  ],
+  "sales_kiosk": [
+    85,
+    95,
+    240
+  ],
+  "mobile_house": [
+    90,
+    94,
+    245
+  ],
+  "shack": [
+    60,
+    70,
+    220
+  ],
+  "color_steel_shed": [
+    70,
+    60,
+    210
+  ],
+  "Red_Cross_building": [
+    110,
+    120,
+    250
+  ],
+  "junkyard": [
+    58,
+    60,
+    200
+  ],
+  "waste_station": [
+    56,
+    60,
+    200
+  ],
+  "cement_floor": [
+    220,
+    220,
+    220
+  ],
+  "pedestrian_path": [
+    210,
+    210,
+    210
+  ],
+  "pedestrian_overpass": [
+    200,
+    200,
+    200
+  ],
+  "pedestrian_ladder_road": [
+    190,
+    190,
+    190
+  ],
+  "non-motorized_lane": [
+    180,
+    180,
+    180
+  ],
+  "walkway": [
+    170,
+    170,
+    170
+  ],
+  "ramp": [
+    160,
+    160,
+    160
+  ],
+  "steep_slope": [
+    150,
+    150,
+    150
+  ],
+  "alley": [
+    140,
+    140,
+    140
+  ],
+  "paving_path": [
+    130,
+    130,
+    130
+  ],
+  "forest": [
+    34,
+    85,
+    34
+  ],
+  "plank_road": [
+    120,
+    120,
+    120
+  ],
+  "roadside": [
+    218,
+    218,
+    218
+  ],
+  "road": [
+    208,
+    208,
+    208
+  ],
+  "Construction_road": [
+    198,
+    198,
+    198
+  ],
+  "gravel_road": [
+    188,
+    188,
+    188
+  ],
+  "service_vehicle_road": [
+    178,
+    178,
+    178
+  ],
+  "golf_cart_path": [
+    110,
+    110,
+    110
+  ],
+  "residential_road": [
+    100,
+    100,
+    100
+  ],
+  "field_road": [
+    90,
+    90,
+    90
+  ],
+  "mountain_road": [
+    70,
+    70,
+    70
+  ],
+  "dirt_path": [
+    60,
+    60,
+    60
+  ],
+  "goose_egg_path": [
+    50,
+    50,
+    50
+  ],
+  "parking_lot": [
+    215,
+    215,
+    215
+  ],
+  "parking_shed": [
+    185,
+    185,
+    185
+  ],
+  "traffic_roundabout": [
+    175,
+    175,
+    175
+  ],
+  "overpass_bridge": [
+    165,
+    165,
+    165
+  ],
+  "highway_overpass": [
+    155,
+    155,
+    155
+  ],
+  "highway": [
+    145,
+    145,
+    145
+  ],
+  "low-speed_highway": [
+    135,
+    135,
+    135
+  ],
+  "bridge": [
+    125,
+    125,
+    125
+  ],
+  "broken_bridge": [
+    115,
+    115,
+    115
+  ],
+  "vertical_bridge": [
+    105,
+    105,
+    105
+  ],
+  "rope_bridge": [
+    95,
+    95,
+    95
+  ],
+  "wooden_bridge": [
+    85,
+    85,
+    85
+  ],
+  "arch_bridge": [
+    75,
+    75,
+    75
+  ],
+  "railway_track": [
+    70,
+    70,
+    70
+  ],
+  "railway": [
+    65,
+    65,
+    65
+  ],
+  "abandoned_track": [
+    60,
+    60,
+    60
+  ],
+  "light_rail": [
+    55,
+    55,
+    55
+  ],
+  "airport": [
+    208,
+    208,
+    208
+  ],
+  "abandoned_airport": [
+    194,
+    194,
+    194
+  ],
+  "air_force_base": [
+    184,
+    184,
+    184
+  ],
+  "helicopter_pad": [
+    174,
+    174,
+    174
+  ],
+  "aircraft_landing_area": [
+    166,
+    166,
+    166
+  ],
+  "aircraft_parking_area": [
+    160,
+    160,
+    160
+  ],
+  "takeoff_runway": [
+    150,
+    150,
+    150
+  ],
+  "airport_service_road": [
+    140,
+    140,
+    140
+  ],
+  "forest_path": [
+    135,
+    135,
+    135
+  ],
+  "forest_clearing": [
+    125,
+    125,
+    125
+  ],
+  "swimming_pool_lounge": [
+    216,
+    216,
+    216
+  ],
+  "square": [
+    212,
+    212,
+    212
+  ],
+  "sports_park": [
+    206,
+    206,
+    206
+  ],
+  "business_park": [
+    205,
+    205,
+    205
+  ],
+  "park": [
+    192,
+    192,
+    192
+  ],
+  "stairs": [
+    195,
+    195,
+    195
+  ],
+  "construction_frame": [
+    185,
+    185,
+    185
+  ],
+  "construction_site": [
+    175,
+    175,
+    175
+  ],
+  "storage_construction_site": [
+    165,
+    165,
+    165
+  ],
+  "floor_slab": [
+    155,
+    155,
+    155
+  ],
+  "dock": [
+    140,
+    140,
+    140
+  ],
+  "yacht_dock": [
+    135,
+    135,
+    135
+  ],
+  "port": [
+    130,
+    130,
+    130
+  ],
+  "pier": [
+    120,
+    120,
+    120
+  ],
+  "seawall": [
+    115,
+    115,
+    115
+  ],
+  "greenhouse": [
+    225,
+    240,
+    245
+  ],
+  "fallow_land": [
+    210,
+    232,
+    240
+  ],
+  "farmland": [
+    200,
+    225,
+    235
+  ],
+  "paddy_field": [
+    190,
+    220,
+    230
+  ],
+  "wheat_field": [
+    175,
+    210,
+    225
+  ],
+  "rapeseed_field": [
+    160,
+    200,
+    220
+  ],
+  "corn_field": [
+    150,
+    190,
+    215
+  ],
+  "vegetable_field": [
+    145,
+    185,
+    210
+  ],
+  "mulch_film": [
+    165,
+    195,
+    205
+  ],
+  "terrace": [
+    140,
+    180,
+    195
+  ],
+  "natural_gas_field": [
+    128,
+    178,
+    190
+  ],
+  "airplane": [
+    210,
+    200,
+    255
+  ],
+  "transport_aircraft": [
+    195,
+    180,
+    250
+  ],
+  "small_jet": [
+    220,
+    210,
+    255
+  ],
+  "helicopter": [
+    200,
+    190,
+    255
+  ],
+  "boarding_ladder": [
+    190,
+    175,
+    250
+  ],
+  "boarding_passage": [
+    200,
+    185,
+    255
+  ],
+  "aircraft_tug": [
+    225,
+    175,
+    195
+  ],
+  "airport_service_vehicle": [
+    220,
+    160,
+    185
+  ],
+  "aircraft_maintenance_equipment": [
+    215,
+    145,
+    175
+  ],
+  "mining_truck": [
+    210,
+    130,
+    155
+  ],
+  "truck": [
+    215,
+    135,
+    165
+  ],
+  "trailer": [
+    205,
+    125,
+    160
+  ],
+  "office_trailer": [
+    210,
+    150,
+    180
+  ],
+  "tractor": [
+    200,
+    120,
+    150
+  ],
+  "compact_car": [
+    235,
+    175,
+    210
+  ],
+  "business_vehicle": [
+    225,
+    160,
+    190
+  ],
+  "motorcycle": [
+    240,
+    185,
+    215
+  ],
+  "bus": [
+    220,
+    140,
+    170
+  ],
+  "towing_locomotive": [
+    205,
+    120,
+    160
+  ],
+  "motorhome": [
+    215,
+    150,
+    185
+  ],
+  "van": [
+    215,
+    140,
+    175
+  ],
+  "vehicles": [
+    220,
+    155,
+    190
+  ],
+  "watering_truck": [
+    210,
+    130,
+    165
+  ],
+  "luggage_cart": [
+    235,
+    175,
+    205
+  ],
+  "guide_car": [
+    240,
+    185,
+    215
+  ],
+  "tanker_truck": [
+    205,
+    120,
+    155
+  ],
+  "engineering_vehicle": [
+    200,
+    115,
+    150
+  ],
+  "construction_vehicle": [
+    205,
+    118,
+    147
+  ],
+  "industrial_vehicle": [
+    210,
+    130,
+    165
+  ],
+  "bridge_vehicle": [
+    215,
+    125,
+    160
+  ],
+  "golf_cart": [
+    245,
+    190,
+    215
+  ],
+  "car_box": [
+    215,
+    145,
+    170
+  ],
+  "cable_car": [
+    225,
+    160,
+    185
+  ],
+  "cable_rope": [
+    190,
+    110,
+    145
+  ],
+  "bulldozer": [
+    200,
+    120,
+    150
+  ],
+  "stadium_service_vehicle": [
+    230,
+    170,
+    200
+  ],
+  "airport_service_equipment": [
+    210,
+    135,
+    165
+  ],
+  "paving_equipment": [
+    205,
+    125,
+    155
+  ],
+  "baseball_field_service_vehicle": [
+    225,
+    165,
+    195
+  ],
+  "train": [
+    190,
+    110,
+    145
+  ],
+  "train_carriage": [
+    195,
+    115,
+    150
+  ],
+  "ship": [
+    200,
+    200,
+    195
+  ],
+  "ferry": [
+    190,
+    190,
+    185
+  ],
+  "speedboat": [
+    225,
+    220,
+    220
+  ],
+  "motorboat": [
+    220,
+    210,
+    210
+  ],
+  "boat": [
+    215,
+    215,
+    210
+  ],
+  "sailboat": [
+    235,
+    230,
+    230
+  ],
+  "barge": [
+    175,
+    170,
+    170
+  ],
+  "water_raft": [
+    230,
+    225,
+    225
+  ],
+  "yacht": [
+    215,
+    205,
+    205
+  ],
+  "aircraft_carrier": [
+    170,
+    165,
+    160
+  ],
+  "cruise_ship": [
+    200,
+    195,
+    190
+  ],
+  "cargo_ship": [
+    185,
+    180,
+    175
+  ],
+  "sports_field": [
+    60,
+    130,
+    230
+  ],
+  "tennis_court": [
+    70,
+    140,
+    240
+  ],
+  "tennis_court_net": [
+    110,
+    180,
+    255
+  ],
+  "tennis_fence": [
+    50,
+    120,
+    210
+  ],
+  "athlete_rest_area": [
+    80,
+    155,
+    255
+  ],
+  "basketball_court": [
+    40,
+    100,
+    220
+  ],
+  "basketball_rack": [
+    200,
+    155,
+    255
+  ],
+  "volleyball_court": [
+    55,
+    125,
+    235
+  ],
+  "baseball_field": [
+    50,
+    115,
+    225
+  ],
+  "batting_area": [
+    90,
+    175,
+    255
+  ],
+  "pitching_area": [
+    55,
+    105,
+    215
+  ],
+  "baseball_field_fence": [
+    45,
+    95,
+    200
+  ],
+  "baseball_field_lounge": [
+    85,
+    165,
+    250
+  ],
+  "batting_cage": [
+    40,
+    85,
+    195
+  ],
+  "badminton_court": [
+    70,
+    150,
+    255
+  ],
+  "badminton_net": [
+    63,
+    103,
+    202
+  ],
+  "football_field": [
+    50,
+    120,
+    235
+  ],
+  "golf_course": [
+    100,
+    170,
+    255
+  ],
+  "golf_fairway": [
+    90,
+    160,
+    250
+  ],
+  "golf_course_bunker": [
+    140,
+    200,
+    255
+  ],
+  "ice_rink": [
+    120,
+    190,
+    255
+  ],
+  "racecourse": [
+    55,
+    125,
+    225
+  ],
+  "shot_put_field": [
+    50,
+    110,
+    210
+  ],
+  "long_jump_field": [
+    65,
+    140,
+    235
+  ],
+  "long_jump_sandpit": [
+    130,
+    190,
+    255
+  ],
+  "rugby_field": [
+    50,
+    115,
+    220
+  ],
+  "skateboard_park": [
+    65,
+    135,
+    240
+  ],
+  "audience_stand": [
+    45,
+    90,
+    200
+  ],
+  "viewing_area": [
+    85,
+    170,
+    255
+  ],
+  "podium": [
+    80,
+    160,
+    255
+  ],
+  "flag-raising_platform": [
+    70,
+    145,
+    255
+  ],
+  "track_and_field_track": [
+    50,
+    100,
+    210
+  ],
+  "school_playground": [
+    60,
+    125,
+    230
+  ],
+  "equestrian_venue": [
+    55,
+    120,
+    225
+  ],
+  "equestrian_track": [
+    75,
+    150,
+    245
+  ],
+  "karting_track": [
+    40,
+    95,
+    200
+  ],
+  "race_track": [
+    35,
+    85,
+    190
+  ],
+  "long_climbing_field": [
+    100,
+    175,
+    255
+  ],
+  "table_tennis_court": [
+    80,
+    155,
+    250
+  ],
+  "traffic_light": [
+    50,
+    215,
+    255
+  ],
+  "street_lamp": [
+    90,
+    225,
+    255
+  ],
+  "electronic_capture_pole": [
+    60,
+    200,
+    240
+  ],
+  "flagpole": [
+    110,
+    235,
+    255
+  ],
+  "stadium_light_pole": [
+    70,
+    210,
+    250
+  ],
+  "parking_pole": [
+    55,
+    190,
+    230
+  ],
+  "barrier_gate": [
+    80,
+    220,
+    255
+  ],
+  "height_restriction_bar": [
+    65,
+    205,
+    245
+  ],
+  "guardrail": [
+    60,
+    185,
+    225
+  ],
+  "wooden_pole": [
+    130,
+    240,
+    255
+  ],
+  "road_stake": [
+    75,
+    195,
+    235
+  ],
+  "curb": [
+    253,
+    253,
+    253
+  ],
+  "road_dividing_line": [
+    252,
+    252,
+    252
+  ],
+  "road_divider": [
+    249,
+    249,
+    249
+  ],
+  "diversion_line": [
+    247,
+    247,
+    247
+  ],
+  "speed_bump": [
+    246,
+    246,
+    246
+  ],
+  "helipad_marking": [
+    253,
+    252,
+    253
+  ],
+  "road_marking": [
+    252,
+    251,
+    252
+  ],
+  "traffic_direction_arrow": [
+    251,
+    250,
+    251
+  ],
+  "parking_space_marking": [
+    250,
+    249,
+    250
+  ],
+  "rockery": [
+    100,
+    120,
+    140
+  ],
+  "fog": [
+    249,
+    248,
+    249
+  ],
+  "clouds": [
+    248,
+    247,
+    248
+  ],
+  "shadow": [
+    10,
+    10,
+    10
+  ],
+  "irrigation_equipment": [
+    180,
+    120,
+    255
+  ],
+  "farming_equipment": [
+    160,
+    95,
+    255
+  ],
+  "ploughing_vehicle": [
+    155,
+    85,
+    245
+  ],
+  "harvester": [
+    170,
+    110,
+    255
+  ],
+  "water_tower": [
+    190,
+    100,
+    255
+  ],
+  "water_tank": [
+    200,
+    130,
+    255
+  ],
+  "water_horse": [
+    175,
+    105,
+    250
+  ],
+  "drain_outlet": [
+    160,
+    80,
+    240
+  ],
+  "water_trough": [
+    210,
+    150,
+    255
+  ],
+  "well": [
+    220,
+    160,
+    255
+  ],
+  "manhole_cover": [
+    185,
+    115,
+    250
+  ],
+  "surfboard": [
+    60,
+    145,
+    255
+  ],
+  "beach_chair": [
+    80,
+    165,
+    255
+  ],
+  "swimming_pool_chair": [
+    95,
+    175,
+    255
+  ],
+  "umbrella": [
+    70,
+    155,
+    255
+  ],
+  "chair": [
+    100,
+    185,
+    255
+  ],
+  "springboard": [
+    115,
+    195,
+    255
+  ],
+  "water_slide": [
+    125,
+    200,
+    255
+  ],
+  "lifebuoy": [
+    130,
+    210,
+    255
+  ],
+  "cool_seat": [
+    105,
+    180,
+    255
+  ],
+  "roof_truss": [
+    255,
+    140,
+    195
+  ],
+  "satellite_antenna": [
+    255,
+    120,
+    175
+  ],
+  "roof_equipment": [
+    255,
+    130,
+    185
+  ],
+  "cave_entrance": [
+    255,
+    150,
+    205
+  ],
+  "tunnel_entrance": [
+    255,
+    145,
+    190
+  ],
+  "amusement_park_equipment": [
+    255,
+    165,
+    220
+  ],
+  "air_conditioning_equipment": [
+    255,
+    110,
+    170
+  ],
+  "pavilion": [
+    255,
+    155,
+    210
+  ],
+  "tombstone": [
+    250,
+    95,
+    160
+  ],
+  "stele": [
+    245,
+    100,
+    165
+  ],
+  "statue": [
+    250,
+    115,
+    180
+  ],
+  "balcony": [
+    255,
+    132,
+    200
+  ],
+  "monument": [
+    240,
+    85,
+    155
+  ],
+  "chimney": [
+    250,
+    105,
+    175
+  ],
+  "construction_equipment": [
+    250,
+    125,
+    185
+  ],
+  "tower_crane": [
+    255,
+    130,
+    190
+  ],
+  "crane": [
+    255,
+    128,
+    200
+  ],
+  "rock_mortar": [
+    255,
+    160,
+    215
+  ],
+  "iron_rod": [
+    240,
+    90,
+    160
+  ],
+  "steel_pipe": [
+    255,
+    130,
+    195
+  ],
+  "sandbag": [
+    255,
+    140,
+    205
+  ],
+  "concrete_mixing_facility": [
+    245,
+    110,
+    180
+  ],
+  "industrial_container": [
+    240,
+    90,
+    165
+  ],
+  "conveying_equipment": [
+    250,
+    120,
+    190
+  ],
+  "conveyor_belt": [
+    250,
+    130,
+    200
+  ],
+  "storage_tank": [
+    255,
+    140,
+    210
+  ],
+  "underground_storage_tank": [
+    95,
+    160,
+    255
+  ],
+  "oil_tank": [
+    80,
+    150,
+    255
+  ],
+  "liquid_storage_tank": [
+    100,
+    173,
+    255
+  ],
+  "fuel_storage_tank": [
+    85,
+    165,
+    255
+  ],
+  "gas_tank": [
+    105,
+    178,
+    255
+  ],
+  "concrete_tank": [
+    120,
+    195,
+    255
+  ],
+  "cement_tank": [
+    115,
+    185,
+    255
+  ],
+  "oil_refining_tank": [
+    130,
+    200,
+    255
+  ],
+  "circular_treatment_tank": [
+    125,
+    190,
+    255
+  ],
+  "sedimentation_tank": [
+    135,
+    205,
+    255
+  ],
+  "industrial_materials": [
+    140,
+    210,
+    255
+  ],
+  "loading_and_unloading_platform": [
+    150,
+    220,
+    255
+  ],
+  "lifting_device": [
+    160,
+    225,
+    255
+  ],
+  "transport_pipeline": [
+    145,
+    130,
+    255
+  ],
+  "oil_pipeline": [
+    140,
+    120,
+    255
+  ],
+  "gas_pipeline": [
+    150,
+    125,
+    255
+  ],
+  "pipeline_structure": [
+    155,
+    135,
+    255
+  ],
+  "cement_pipe": [
+    165,
+    145,
+    255
+  ],
+  "wind_power_machine": [
+    255,
+    120,
+    195
+  ],
+  "wind_turbine": [
+    255,
+    110,
+    185
+  ],
+  "wind_turbine_blades": [
+    250,
+    100,
+    175
+  ],
+  "solar_panel": [
+    255,
+    130,
+    205
+  ],
+  "roof_solar_panel": [
+    255,
+    145,
+    215
+  ],
+  "substation_equipment": [
+    255,
+    115,
+    190
+  ],
+  "high_voltage_line": [
+    255,
+    125,
+    200
+  ],
+  "electric_tower": [
+    250,
+    105,
+    180
+  ],
+  "electric_pole": [
+    245,
+    95,
+    170
+  ],
+  "cable": [
+    255,
+    135,
+    210
+  ],
+  "high_voltage_power_lines": [
+    255,
+    145,
+    220
+  ],
+  "wastewater_treatment_facilities": [
+    200,
+    140,
+    255
+  ],
+  "wastewater_treatment_plant": [
+    128,
+    125,
+    128
+  ],
+  "recycling_processing_plant": [
+    138,
+    135,
+    138
+  ],
+  "stone_mining_machine": [
+    245,
+    95,
+    165
+  ],
+  "coal_mining_machine": [
+    240,
+    82,
+    155
+  ],
+  "excavator": [
+    255,
+    115,
+    185
+  ],
+  "oil_extraction_machine": [
+    255,
+    125,
+    195
+  ],
+  "oil_well": [
+    255,
+    135,
+    200
+  ],
+  "oil_pipe": [
+    255,
+    142,
+    205
+  ],
+  "oil_pump": [
+    255,
+    152,
+    210
+  ],
+  "shipbuilding_materials": [
+    255,
+    165,
+    225
+  ],
+  "cargo_container": [
+    255,
+    175,
+    235
+  ],
+  "floating_fence": [
+    255,
+    185,
+    245
+  ],
+  "fishing_net": [
+    255,
+    195,
+    255
+  ],
+  "stadium_seats": [
+    180,
+    115,
+    255
+  ],
+  "netball_court_seat": [
+    190,
+    135,
+    255
+  ],
+  "tennis_court_lamppost": [
+    195,
+    145,
+    255
+  ],
+  "golf_hole": [
+    210,
+    165,
+    255
+  ],
+  "ping_pong_table": [
+    120,
+    165,
+    255
+  ],
+  "football_goal": [
+    115,
+    155,
+    255
+  ],
+  "football_goal_net": [
+    125,
+    170,
+    255
+  ],
+  "pitching_net": [
+    135,
+    180,
+    255
+  ],
+  "scoreboard": [
+    140,
+    175,
+    255
+  ],
+  "stadium_street_lights": [
+    130,
+    160,
+    255
+  ],
+  "hot_air_balloon": [
+    120,
+    145,
+    255
+  ],
+  "swing": [
+    145,
+    185,
+    255
+  ],
+  "bus_stop_sign": [
+    160,
+    135,
+    255
+  ],
+  "charging_pile": [
+    170,
+    145,
+    255
+  ],
+  "rack": [
+    180,
+    155,
+    255
+  ],
+  "antenna_rack": [
+    190,
+    165,
+    255
+  ],
+  "tent": [
+    200,
+    150,
+    255
+  ],
+  "campsite": [
+    210,
+    160,
+    255
+  ],
+  "picnic_table": [
+    215,
+    170,
+    255
+  ],
+  "stacked_objects": [
+    240,
+    160,
+    240
+  ],
+  "material_yard": [
+    49,
+    50,
+    190
+  ],
+  "bench": [
+    245,
+    165,
+    245
+  ],
+  "abandoned_materials": [
+    235,
+    155,
+    235
+  ],
+  "trash_bin": [
+    230,
+    145,
+    225
+  ],
+  "scrap_metal": [
+    225,
+    140,
+    220
+  ],
+  "billboard": [
+    235,
+    150,
+    230
+  ],
+  "fence": [
+    255,
+    120,
+    205
+  ],
+  "anemometer": [
+    255,
+    110,
+    195
+  ],
+  "windsock": [
+    255,
+    100,
+    185
+  ],
+  "pallet_stack": [
+    255,
+    115,
+    200
+  ],
+  "sidewalk": [
+    130,
+    130,
+    130
+  ],
+  "street": [
+    130,
+    130,
+    130
+  ],
+  "paved_area": [
+    132,
+    132,
+    132
+  ],
+  "asphalt_road": [
+    130,
+    130,
+    130
+  ],
+  "cement_road": [
+    130,
+    130,
+    130
+  ],
+  "rural_road": [
+    130,
+    130,
+    130
+  ],
+  "field_road": [
+    130,
+    130,
+    130
+  ],
+  "corrugated_iron_roof": [
+    72,
+    94,
+    220
+  ],
+  "color_steel_roof": [
+    75,
+    96,
+    224
+  ],
+  "transparent_roof": [
+    88,
+    90,
+    238
+  ],
+  "roof": [
+    84,
+    91,
+    235
+  ],
+  "warehouse": [
+    242,
+    108,
+    176
+  ],
+  "industrial_equipment": [
+    208,
+    138,
+    170
+  ],
+  "orchard": [
+    68,
+    120,
+    106
+  ],
+  "archway": [
+    91,
+    82,
+    223
+  ],
+  "building_materials": [
+    226,
+    143,
+    226
+  ]
+}

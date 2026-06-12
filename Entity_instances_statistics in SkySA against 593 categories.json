@@ -1,0 +1,3604 @@
+{
+  "entity_statistics": [
+    {
+      "rank": 1,
+      "class_name": "grassland",
+      "count": 260144,
+      "percentage": 18.53
+    },
+    {
+      "rank": 2,
+      "class_name": "tree",
+      "count": 256613,
+      "percentage": 18.28
+    },
+    {
+      "rank": 3,
+      "class_name": "bare_land",
+      "count": 180088,
+      "percentage": 12.83
+    },
+    {
+      "rank": 4,
+      "class_name": "building",
+      "count": 133058,
+      "percentage": 9.48
+    },
+    {
+      "rank": 5,
+      "class_name": "airport",
+      "count": 77798,
+      "percentage": 5.54
+    },
+    {
+      "rank": 6,
+      "class_name": "vehicles",
+      "count": 72986,
+      "percentage": 5.2
+    },
+    {
+      "rank": 7,
+      "class_name": "paved_area",
+      "count": 46862,
+      "percentage": 3.34
+    },
+    {
+      "rank": 8,
+      "class_name": "farmland",
+      "count": 35169,
+      "percentage": 2.5
+    },
+    {
+      "rank": 9,
+      "class_name": "rural_road",
+      "count": 31740,
+      "percentage": 2.26
+    },
+    {
+      "rank": 10,
+      "class_name": "barren_terrain",
+      "count": 30961,
+      "percentage": 2.21
+    },
+    {
+      "rank": 11,
+      "class_name": "parking_lot",
+      "count": 27690,
+      "percentage": 1.97
+    },
+    {
+      "rank": 12,
+      "class_name": "low_shrubs",
+      "count": 15708,
+      "percentage": 1.12
+    },
+    {
+      "rank": 13,
+      "class_name": "water",
+      "count": 14722,
+      "percentage": 1.05
+    },
+    {
+      "rank": 14,
+      "class_name": "compact_car",
+      "count": 12624,
+      "percentage": 0.9
+    },
+    {
+      "rank": 15,
+      "class_name": "residential_building",
+      "count": 11023,
+      "percentage": 0.79
+    },
+    {
+      "rank": 16,
+      "class_name": "forest",
+      "count": 9143,
+      "percentage": 0.65
+    },
+    {
+      "rank": 17,
+      "class_name": "ship",
+      "count": 8694,
+      "percentage": 0.62
+    },
+    {
+      "rank": 18,
+      "class_name": "golf_course",
+      "count": 8469,
+      "percentage": 0.6
+    },
+    {
+      "rank": 19,
+      "class_name": "solar_panel",
+      "count": 7446,
+      "percentage": 0.53
+    },
+    {
+      "rank": 20,
+      "class_name": "tombstone",
+      "count": 6865,
+      "percentage": 0.49
+    },
+    {
+      "rank": 21,
+      "class_name": "street_lamp",
+      "count": 6773,
+      "percentage": 0.48
+    },
+    {
+      "rank": 22,
+      "class_name": "field_ridge",
+      "count": 5470,
+      "percentage": 0.39
+    },
+    {
+      "rank": 23,
+      "class_name": "sand_pit",
+      "count": 5277,
+      "percentage": 0.38
+    },
+    {
+      "rank": 24,
+      "class_name": "river",
+      "count": 5178,
+      "percentage": 0.37
+    },
+    {
+      "rank": 25,
+      "class_name": "industrial_area",
+      "count": 4562,
+      "percentage": 0.32
+    },
+    {
+      "rank": 26,
+      "class_name": "dried_riverbed",
+      "count": 4512,
+      "percentage": 0.32
+    },
+    {
+      "rank": 27,
+      "class_name": "swimming_pool",
+      "count": 4057,
+      "percentage": 0.29
+    },
+    {
+      "rank": 28,
+      "class_name": "dock",
+      "count": 3954,
+      "percentage": 0.28
+    },
+    {
+      "rank": 29,
+      "class_name": "boat",
+      "count": 3862,
+      "percentage": 0.28
+    },
+    {
+      "rank": 30,
+      "class_name": "baseball_field",
+      "count": 3533,
+      "percentage": 0.25
+    },
+    {
+      "rank": 31,
+      "class_name": "pond",
+      "count": 3517,
+      "percentage": 0.25
+    },
+    {
+      "rank": 32,
+      "class_name": "lake",
+      "count": 3095,
+      "percentage": 0.22
+    },
+    {
+      "rank": 33,
+      "class_name": "fence",
+      "count": 3008,
+      "percentage": 0.21
+    },
+    {
+      "rank": 34,
+      "class_name": "desert",
+      "count": 2683,
+      "percentage": 0.19
+    },
+    {
+      "rank": 35,
+      "class_name": "enclosure_wall",
+      "count": 2679,
+      "percentage": 0.19
+    },
+    {
+      "rank": 36,
+      "class_name": "green_belt",
+      "count": 2581,
+      "percentage": 0.18
+    },
+    {
+      "rank": 37,
+      "class_name": "greenhouse",
+      "count": 2563,
+      "percentage": 0.18
+    },
+    {
+      "rank": 38,
+      "class_name": "mountain",
+      "count": 2496,
+      "percentage": 0.18
+    },
+    {
+      "rank": 39,
+      "class_name": "landscape_plants",
+      "count": 2487,
+      "percentage": 0.18
+    },
+    {
+      "rank": 40,
+      "class_name": "roof",
+      "count": 2397,
+      "percentage": 0.17
+    },
+    {
+      "rank": 41,
+      "class_name": "orchard",
+      "count": 2363,
+      "percentage": 0.17
+    },
+    {
+      "rank": 42,
+      "class_name": "railway_track",
+      "count": 2298,
+      "percentage": 0.16
+    },
+    {
+      "rank": 43,
+      "class_name": "tennis_court",
+      "count": 2227,
+      "percentage": 0.16
+    },
+    {
+      "rank": 44,
+      "class_name": "weeds",
+      "count": 2227,
+      "percentage": 0.16
+    },
+    {
+      "rank": 45,
+      "class_name": "construction_site",
+      "count": 2025,
+      "percentage": 0.14
+    },
+    {
+      "rank": 46,
+      "class_name": "wind_turbine",
+      "count": 1988,
+      "percentage": 0.14
+    },
+    {
+      "rank": 47,
+      "class_name": "ocean",
+      "count": 1929,
+      "percentage": 0.14
+    },
+    {
+      "rank": 48,
+      "class_name": "wastewater_treatment_plant",
+      "count": 1902,
+      "percentage": 0.14
+    },
+    {
+      "rank": 49,
+      "class_name": "truck",
+      "count": 1836,
+      "percentage": 0.13
+    },
+    {
+      "rank": 50,
+      "class_name": "abandoned_track",
+      "count": 1726,
+      "percentage": 0.12
+    },
+    {
+      "rank": 51,
+      "class_name": "highway",
+      "count": 1693,
+      "percentage": 0.12
+    },
+    {
+      "rank": 52,
+      "class_name": "island",
+      "count": 1658,
+      "percentage": 0.12
+    },
+    {
+      "rank": 53,
+      "class_name": "transformer_substation",
+      "count": 1590,
+      "percentage": 0.11
+    },
+    {
+      "rank": 54,
+      "class_name": "villa",
+      "count": 1493,
+      "percentage": 0.11
+    },
+    {
+      "rank": 55,
+      "class_name": "aircraft_parking_area",
+      "count": 1449,
+      "percentage": 0.1
+    },
+    {
+      "rank": 56,
+      "class_name": "airplane",
+      "count": 1405,
+      "percentage": 0.1
+    },
+    {
+      "rank": 57,
+      "class_name": "takeoff_runway",
+      "count": 1328,
+      "percentage": 0.09
+    },
+    {
+      "rank": 58,
+      "class_name": "plantation",
+      "count": 1299,
+      "percentage": 0.09
+    },
+    {
+      "rank": 59,
+      "class_name": "electric_pole",
+      "count": 1241,
+      "percentage": 0.09
+    },
+    {
+      "rank": 60,
+      "class_name": "industrial_building",
+      "count": 1237,
+      "percentage": 0.09
+    },
+    {
+      "rank": 61,
+      "class_name": "stadium_seats",
+      "count": 1205,
+      "percentage": 0.09
+    },
+    {
+      "rank": 62,
+      "class_name": "cargo_container",
+      "count": 1103,
+      "percentage": 0.08
+    },
+    {
+      "rank": 63,
+      "class_name": "pipeline_structure",
+      "count": 1097,
+      "percentage": 0.08
+    },
+    {
+      "rank": 64,
+      "class_name": "rock_pile",
+      "count": 1090,
+      "percentage": 0.08
+    },
+    {
+      "rank": 65,
+      "class_name": "park",
+      "count": 1087,
+      "percentage": 0.08
+    },
+    {
+      "rank": 66,
+      "class_name": "stone",
+      "count": 1086,
+      "percentage": 0.08
+    },
+    {
+      "rank": 67,
+      "class_name": "color_steel_shed",
+      "count": 1072,
+      "percentage": 0.08
+    },
+    {
+      "rank": 68,
+      "class_name": "pedestrian_path",
+      "count": 1066,
+      "percentage": 0.08
+    },
+    {
+      "rank": 69,
+      "class_name": "forest_clearing",
+      "count": 1063,
+      "percentage": 0.08
+    },
+    {
+      "rank": 70,
+      "class_name": "riverside",
+      "count": 1056,
+      "percentage": 0.08
+    },
+    {
+      "rank": 71,
+      "class_name": "storage_tank",
+      "count": 998,
+      "percentage": 0.07
+    },
+    {
+      "rank": 72,
+      "class_name": "beach",
+      "count": 956,
+      "percentage": 0.07
+    },
+    {
+      "rank": 73,
+      "class_name": "building_materials",
+      "count": 922,
+      "percentage": 0.07
+    },
+    {
+      "rank": 74,
+      "class_name": "basketball_court",
+      "count": 873,
+      "percentage": 0.06
+    },
+    {
+      "rank": 75,
+      "class_name": "gymnasium",
+      "count": 838,
+      "percentage": 0.06
+    },
+    {
+      "rank": 76,
+      "class_name": "wastewater_pond",
+      "count": 808,
+      "percentage": 0.06
+    },
+    {
+      "rank": 77,
+      "class_name": "industrial_equipment",
+      "count": 792,
+      "percentage": 0.06
+    },
+    {
+      "rank": 78,
+      "class_name": "cement_floor",
+      "count": 747,
+      "percentage": 0.05
+    },
+    {
+      "rank": 79,
+      "class_name": "solar_power_plant",
+      "count": 743,
+      "percentage": 0.05
+    },
+    {
+      "rank": 80,
+      "class_name": "audience_stand",
+      "count": 662,
+      "percentage": 0.05
+    },
+    {
+      "rank": 81,
+      "class_name": "football_field",
+      "count": 660,
+      "percentage": 0.05
+    },
+    {
+      "rank": 82,
+      "class_name": "shore",
+      "count": 650,
+      "percentage": 0.05
+    },
+    {
+      "rank": 83,
+      "class_name": "train_station",
+      "count": 645,
+      "percentage": 0.05
+    },
+    {
+      "rank": 84,
+      "class_name": "reservoir",
+      "count": 617,
+      "percentage": 0.04
+    },
+    {
+      "rank": 85,
+      "class_name": "railway",
+      "count": 602,
+      "percentage": 0.04
+    },
+    {
+      "rank": 86,
+      "class_name": "hills",
+      "count": 562,
+      "percentage": 0.04
+    },
+    {
+      "rank": 87,
+      "class_name": "bare_soil",
+      "count": 558,
+      "percentage": 0.04
+    },
+    {
+      "rank": 88,
+      "class_name": "tennis_court_net",
+      "count": 539,
+      "percentage": 0.04
+    },
+    {
+      "rank": 89,
+      "class_name": "road_divider",
+      "count": 514,
+      "percentage": 0.04
+    },
+    {
+      "rank": 90,
+      "class_name": "oil_refinery_factory",
+      "count": 491,
+      "percentage": 0.04
+    },
+    {
+      "rank": 91,
+      "class_name": "bench",
+      "count": 475,
+      "percentage": 0.03
+    },
+    {
+      "rank": 92,
+      "class_name": "oil_tank",
+      "count": 474,
+      "percentage": 0.03
+    },
+    {
+      "rank": 93,
+      "class_name": "terrace",
+      "count": 439,
+      "percentage": 0.03
+    },
+    {
+      "rank": 94,
+      "class_name": "ditch",
+      "count": 402,
+      "percentage": 0.03
+    },
+    {
+      "rank": 95,
+      "class_name": "substation_equipment",
+      "count": 387,
+      "percentage": 0.03
+    },
+    {
+      "rank": 96,
+      "class_name": "golf_fairway",
+      "count": 375,
+      "percentage": 0.03
+    },
+    {
+      "rank": 97,
+      "class_name": "basketball_rack",
+      "count": 370,
+      "percentage": 0.03
+    },
+    {
+      "rank": 98,
+      "class_name": "dam",
+      "count": 362,
+      "percentage": 0.03
+    },
+    {
+      "rank": 99,
+      "class_name": "coast",
+      "count": 358,
+      "percentage": 0.03
+    },
+    {
+      "rank": 100,
+      "class_name": "warehouse",
+      "count": 347,
+      "percentage": 0.02
+    },
+    {
+      "rank": 101,
+      "class_name": "water_tank",
+      "count": 324,
+      "percentage": 0.02
+    },
+    {
+      "rank": 102,
+      "class_name": "village_building",
+      "count": 318,
+      "percentage": 0.02
+    },
+    {
+      "rank": 103,
+      "class_name": "stacked_objects",
+      "count": 317,
+      "percentage": 0.02
+    },
+    {
+      "rank": 104,
+      "class_name": "electric_tower",
+      "count": 312,
+      "percentage": 0.02
+    },
+    {
+      "rank": 105,
+      "class_name": "muddy_ground",
+      "count": 309,
+      "percentage": 0.02
+    },
+    {
+      "rank": 106,
+      "class_name": "power_station",
+      "count": 295,
+      "percentage": 0.02
+    },
+    {
+      "rank": 107,
+      "class_name": "playground",
+      "count": 292,
+      "percentage": 0.02
+    },
+    {
+      "rank": 108,
+      "class_name": "river_beach",
+      "count": 286,
+      "percentage": 0.02
+    },
+    {
+      "rank": 109,
+      "class_name": "shrubland",
+      "count": 285,
+      "percentage": 0.02
+    },
+    {
+      "rank": 110,
+      "class_name": "mound",
+      "count": 280,
+      "percentage": 0.02
+    },
+    {
+      "rank": 111,
+      "class_name": "olive_grove",
+      "count": 276,
+      "percentage": 0.02
+    },
+    {
+      "rank": 112,
+      "class_name": "junkyard",
+      "count": 274,
+      "percentage": 0.02
+    },
+    {
+      "rank": 113,
+      "class_name": "bus",
+      "count": 270,
+      "percentage": 0.02
+    },
+    {
+      "rank": 114,
+      "class_name": "sports_field",
+      "count": 256,
+      "percentage": 0.02
+    },
+    {
+      "rank": 115,
+      "class_name": "tennis_fence",
+      "count": 248,
+      "percentage": 0.02
+    },
+    {
+      "rank": 116,
+      "class_name": "industrial_materials",
+      "count": 248,
+      "percentage": 0.02
+    },
+    {
+      "rank": 117,
+      "class_name": "open-pit_mining_area",
+      "count": 244,
+      "percentage": 0.02
+    },
+    {
+      "rank": 118,
+      "class_name": "track_and_field_track",
+      "count": 241,
+      "percentage": 0.02
+    },
+    {
+      "rank": 119,
+      "class_name": "storage_construction_site",
+      "count": 219,
+      "percentage": 0.02
+    },
+    {
+      "rank": 120,
+      "class_name": "construction_equipment",
+      "count": 212,
+      "percentage": 0.02
+    },
+    {
+      "rank": 121,
+      "class_name": "guardrail",
+      "count": 199,
+      "percentage": 0.01
+    },
+    {
+      "rank": 122,
+      "class_name": "traffic_light",
+      "count": 197,
+      "percentage": 0.01
+    },
+    {
+      "rank": 123,
+      "class_name": "non-motorized_lane",
+      "count": 192,
+      "percentage": 0.01
+    },
+    {
+      "rank": 124,
+      "class_name": "billboard",
+      "count": 189,
+      "percentage": 0.01
+    },
+    {
+      "rank": 125,
+      "class_name": "rocky_ground",
+      "count": 186,
+      "percentage": 0.01
+    },
+    {
+      "rank": 126,
+      "class_name": "yacht",
+      "count": 186,
+      "percentage": 0.01
+    },
+    {
+      "rank": 127,
+      "class_name": "sunshade",
+      "count": 185,
+      "percentage": 0.01
+    },
+    {
+      "rank": 128,
+      "class_name": "umbrella",
+      "count": 185,
+      "percentage": 0.01
+    },
+    {
+      "rank": 129,
+      "class_name": "paddy_field",
+      "count": 184,
+      "percentage": 0.01
+    },
+    {
+      "rank": 130,
+      "class_name": "train",
+      "count": 184,
+      "percentage": 0.01
+    },
+    {
+      "rank": 131,
+      "class_name": "oil_pipeline",
+      "count": 183,
+      "percentage": 0.01
+    },
+    {
+      "rank": 132,
+      "class_name": "van",
+      "count": 168,
+      "percentage": 0.01
+    },
+    {
+      "rank": 133,
+      "class_name": "pavilion",
+      "count": 166,
+      "percentage": 0.01
+    },
+    {
+      "rank": 134,
+      "class_name": "flower_bed",
+      "count": 163,
+      "percentage": 0.01
+    },
+    {
+      "rank": 135,
+      "class_name": "oil_extraction_site",
+      "count": 161,
+      "percentage": 0.01
+    },
+    {
+      "rank": 136,
+      "class_name": "canal",
+      "count": 160,
+      "percentage": 0.01
+    },
+    {
+      "rank": 137,
+      "class_name": "marshland",
+      "count": 154,
+      "percentage": 0.01
+    },
+    {
+      "rank": 138,
+      "class_name": "sandy_gravel_ground",
+      "count": 140,
+      "percentage": 0.01
+    },
+    {
+      "rank": 139,
+      "class_name": "clouds",
+      "count": 130,
+      "percentage": 0.01
+    },
+    {
+      "rank": 140,
+      "class_name": "beach_chair",
+      "count": 130,
+      "percentage": 0.01
+    },
+    {
+      "rank": 141,
+      "class_name": "helicopter_pad",
+      "count": 124,
+      "percentage": 0.01
+    },
+    {
+      "rank": 142,
+      "class_name": "manhole_cover",
+      "count": 122,
+      "percentage": 0.01
+    },
+    {
+      "rank": 143,
+      "class_name": "sand",
+      "count": 120,
+      "percentage": 0.01
+    },
+    {
+      "rank": 144,
+      "class_name": "hedge",
+      "count": 119,
+      "percentage": 0.01
+    },
+    {
+      "rank": 145,
+      "class_name": "excavation_site",
+      "count": 118,
+      "percentage": 0.01
+    },
+    {
+      "rank": 146,
+      "class_name": "gravel_road",
+      "count": 118,
+      "percentage": 0.01
+    },
+    {
+      "rank": 147,
+      "class_name": "palm_tree",
+      "count": 117,
+      "percentage": 0.01
+    },
+    {
+      "rank": 148,
+      "class_name": "cable",
+      "count": 114,
+      "percentage": 0.01
+    },
+    {
+      "rank": 149,
+      "class_name": "boarding_passage",
+      "count": 113,
+      "percentage": 0.01
+    },
+    {
+      "rank": 150,
+      "class_name": "plain",
+      "count": 112,
+      "percentage": 0.01
+    },
+    {
+      "rank": 151,
+      "class_name": "golf_course_bunker",
+      "count": 111,
+      "percentage": 0.01
+    },
+    {
+      "rank": 152,
+      "class_name": "wastewater_treatment_facilities",
+      "count": 111,
+      "percentage": 0.01
+    },
+    {
+      "rank": 153,
+      "class_name": "road_dividing_line",
+      "count": 111,
+      "percentage": 0.01
+    },
+    {
+      "rank": 154,
+      "class_name": "football_goal",
+      "count": 109,
+      "percentage": 0.01
+    },
+    {
+      "rank": 155,
+      "class_name": "snowfield",
+      "count": 109,
+      "percentage": 0.01
+    },
+    {
+      "rank": 156,
+      "class_name": "railway_platform",
+      "count": 106,
+      "percentage": 0.01
+    },
+    {
+      "rank": 157,
+      "class_name": "puddle",
+      "count": 103,
+      "percentage": 0.01
+    },
+    {
+      "rank": 158,
+      "class_name": "golf_cart",
+      "count": 103,
+      "percentage": 0.01
+    },
+    {
+      "rank": 159,
+      "class_name": "skyscraper",
+      "count": 101,
+      "percentage": 0.01
+    },
+    {
+      "rank": 160,
+      "class_name": "aquatic_plants",
+      "count": 99,
+      "percentage": 0.01
+    },
+    {
+      "rank": 161,
+      "class_name": "aircraft_hangar",
+      "count": 99,
+      "percentage": 0.01
+    },
+    {
+      "rank": 162,
+      "class_name": "airport_terminal",
+      "count": 96,
+      "percentage": 0.01
+    },
+    {
+      "rank": 163,
+      "class_name": "road_marking",
+      "count": 94,
+      "percentage": 0.01
+    },
+    {
+      "rank": 164,
+      "class_name": "grape_tree",
+      "count": 93,
+      "percentage": 0.01
+    },
+    {
+      "rank": 165,
+      "class_name": "fish_pond",
+      "count": 93,
+      "percentage": 0.01
+    },
+    {
+      "rank": 166,
+      "class_name": "mobile_house",
+      "count": 92,
+      "percentage": 0.01
+    },
+    {
+      "rank": 167,
+      "class_name": "train_carriage",
+      "count": 89,
+      "percentage": 0.01
+    },
+    {
+      "rank": 168,
+      "class_name": "wheat_field",
+      "count": 89,
+      "percentage": 0.01
+    },
+    {
+      "rank": 169,
+      "class_name": "quarry",
+      "count": 89,
+      "percentage": 0.01
+    },
+    {
+      "rank": 170,
+      "class_name": "vineyard",
+      "count": 87,
+      "percentage": 0.01
+    },
+    {
+      "rank": 171,
+      "class_name": "water_tower",
+      "count": 84,
+      "percentage": 0.01
+    },
+    {
+      "rank": 172,
+      "class_name": "oil_extraction_machine",
+      "count": 83,
+      "percentage": 0.01
+    },
+    {
+      "rank": 173,
+      "class_name": "poplar_forest",
+      "count": 82,
+      "percentage": 0.01
+    },
+    {
+      "rank": 174,
+      "class_name": "sand_pile",
+      "count": 81,
+      "percentage": 0.01
+    },
+    {
+      "rank": 175,
+      "class_name": "apartment",
+      "count": 81,
+      "percentage": 0.01
+    },
+    {
+      "rank": 176,
+      "class_name": "forest_farm",
+      "count": 79,
+      "percentage": 0.01
+    },
+    {
+      "rank": 177,
+      "class_name": "vegetable_field",
+      "count": 77,
+      "percentage": 0.01
+    },
+    {
+      "rank": 178,
+      "class_name": "wooden_stake",
+      "count": 76,
+      "percentage": 0.01
+    },
+    {
+      "rank": 179,
+      "class_name": "sparse_vegetation",
+      "count": 75,
+      "percentage": 0.01
+    },
+    {
+      "rank": 180,
+      "class_name": "wave",
+      "count": 75,
+      "percentage": 0.01
+    },
+    {
+      "rank": 181,
+      "class_name": "saline-alkali_land",
+      "count": 74,
+      "percentage": 0.01
+    },
+    {
+      "rank": 182,
+      "class_name": "lake_island",
+      "count": 73,
+      "percentage": 0.01
+    },
+    {
+      "rank": 183,
+      "class_name": "chair",
+      "count": 72,
+      "percentage": 0.01
+    },
+    {
+      "rank": 184,
+      "class_name": "wind_turbine_blades",
+      "count": 70,
+      "percentage": 0.01
+    },
+    {
+      "rank": 185,
+      "class_name": "river_embankment",
+      "count": 67,
+      "percentage": 0.0
+    },
+    {
+      "rank": 186,
+      "class_name": "helicopter",
+      "count": 65,
+      "percentage": 0.0
+    },
+    {
+      "rank": 187,
+      "class_name": "pump_station",
+      "count": 64,
+      "percentage": 0.0
+    },
+    {
+      "rank": 188,
+      "class_name": "wood",
+      "count": 63,
+      "percentage": 0.0
+    },
+    {
+      "rank": 189,
+      "class_name": "trailer",
+      "count": 63,
+      "percentage": 0.0
+    },
+    {
+      "rank": 190,
+      "class_name": "golf_hole",
+      "count": 56,
+      "percentage": 0.0
+    },
+    {
+      "rank": 191,
+      "class_name": "excavator",
+      "count": 55,
+      "percentage": 0.0
+    },
+    {
+      "rank": 192,
+      "class_name": "glacier",
+      "count": 53,
+      "percentage": 0.0
+    },
+    {
+      "rank": 193,
+      "class_name": "signal_tower",
+      "count": 51,
+      "percentage": 0.0
+    },
+    {
+      "rank": 194,
+      "class_name": "sea_ice",
+      "count": 51,
+      "percentage": 0.0
+    },
+    {
+      "rank": 195,
+      "class_name": "golf_cart_path",
+      "count": 51,
+      "percentage": 0.0
+    },
+    {
+      "rank": 196,
+      "class_name": "mountain_gully",
+      "count": 48,
+      "percentage": 0.0
+    },
+    {
+      "rank": 197,
+      "class_name": "trash_bin",
+      "count": 47,
+      "percentage": 0.0
+    },
+    {
+      "rank": 198,
+      "class_name": "circular_treatment_tank",
+      "count": 47,
+      "percentage": 0.0
+    },
+    {
+      "rank": 199,
+      "class_name": "garden",
+      "count": 47,
+      "percentage": 0.0
+    },
+    {
+      "rank": 200,
+      "class_name": "construction_frame",
+      "count": 46,
+      "percentage": 0.0
+    },
+    {
+      "rank": 201,
+      "class_name": "abandoned_materials",
+      "count": 46,
+      "percentage": 0.0
+    },
+    {
+      "rank": 202,
+      "class_name": "bamboo_pole",
+      "count": 45,
+      "percentage": 0.0
+    },
+    {
+      "rank": 203,
+      "class_name": "mulch_film",
+      "count": 42,
+      "percentage": 0.0
+    },
+    {
+      "rank": 204,
+      "class_name": "transport_pipeline",
+      "count": 41,
+      "percentage": 0.0
+    },
+    {
+      "rank": 205,
+      "class_name": "farmhouse",
+      "count": 41,
+      "percentage": 0.0
+    },
+    {
+      "rank": 206,
+      "class_name": "water_horse",
+      "count": 40,
+      "percentage": 0.0
+    },
+    {
+      "rank": 207,
+      "class_name": "tent",
+      "count": 40,
+      "percentage": 0.0
+    },
+    {
+      "rank": 208,
+      "class_name": "material_yard",
+      "count": 40,
+      "percentage": 0.0
+    },
+    {
+      "rank": 209,
+      "class_name": "airport_service_vehicle",
+      "count": 40,
+      "percentage": 0.0
+    },
+    {
+      "rank": 210,
+      "class_name": "oil_pump",
+      "count": 39,
+      "percentage": 0.0
+    },
+    {
+      "rank": 211,
+      "class_name": "airport_service_equipment",
+      "count": 38,
+      "percentage": 0.0
+    },
+    {
+      "rank": 212,
+      "class_name": "hillside",
+      "count": 38,
+      "percentage": 0.0
+    },
+    {
+      "rank": 213,
+      "class_name": "lakeside",
+      "count": 38,
+      "percentage": 0.0
+    },
+    {
+      "rank": 214,
+      "class_name": "yacht_dock",
+      "count": 36,
+      "percentage": 0.0
+    },
+    {
+      "rank": 215,
+      "class_name": "square",
+      "count": 35,
+      "percentage": 0.0
+    },
+    {
+      "rank": 216,
+      "class_name": "pier",
+      "count": 35,
+      "percentage": 0.0
+    },
+    {
+      "rank": 217,
+      "class_name": "boarding_building",
+      "count": 35,
+      "percentage": 0.0
+    },
+    {
+      "rank": 218,
+      "class_name": "guide_car",
+      "count": 34,
+      "percentage": 0.0
+    },
+    {
+      "rank": 219,
+      "class_name": "wind_power_plant",
+      "count": 34,
+      "percentage": 0.0
+    },
+    {
+      "rank": 220,
+      "class_name": "commercial_building",
+      "count": 34,
+      "percentage": 0.0
+    },
+    {
+      "rank": 221,
+      "class_name": "church",
+      "count": 33,
+      "percentage": 0.0
+    },
+    {
+      "rank": 222,
+      "class_name": "pile_of_rubble",
+      "count": 32,
+      "percentage": 0.0
+    },
+    {
+      "rank": 223,
+      "class_name": "helipad_marking",
+      "count": 32,
+      "percentage": 0.0
+    },
+    {
+      "rank": 224,
+      "class_name": "abandoned_industrial_area",
+      "count": 31,
+      "percentage": 0.0
+    },
+    {
+      "rank": 225,
+      "class_name": "residential_road",
+      "count": 31,
+      "percentage": 0.0
+    },
+    {
+      "rank": 226,
+      "class_name": "willow_tree",
+      "count": 31,
+      "percentage": 0.0
+    },
+    {
+      "rank": 227,
+      "class_name": "abandoned_airport",
+      "count": 31,
+      "percentage": 0.0
+    },
+    {
+      "rank": 228,
+      "class_name": "goose_egg_path",
+      "count": 30,
+      "percentage": 0.0
+    },
+    {
+      "rank": 229,
+      "class_name": "low_plants",
+      "count": 29,
+      "percentage": 0.0
+    },
+    {
+      "rank": 230,
+      "class_name": "rack",
+      "count": 29,
+      "percentage": 0.0
+    },
+    {
+      "rank": 231,
+      "class_name": "stone_mountain",
+      "count": 28,
+      "percentage": 0.0
+    },
+    {
+      "rank": 232,
+      "class_name": "tower",
+      "count": 27,
+      "percentage": 0.0
+    },
+    {
+      "rank": 233,
+      "class_name": "chemical_factory",
+      "count": 27,
+      "percentage": 0.0
+    },
+    {
+      "rank": 234,
+      "class_name": "fountain_pool",
+      "count": 26,
+      "percentage": 0.0
+    },
+    {
+      "rank": 235,
+      "class_name": "arbor",
+      "count": 26,
+      "percentage": 0.0
+    },
+    {
+      "rank": 236,
+      "class_name": "crane",
+      "count": 26,
+      "percentage": 0.0
+    },
+    {
+      "rank": 237,
+      "class_name": "gas_tank",
+      "count": 26,
+      "percentage": 0.0
+    },
+    {
+      "rank": 238,
+      "class_name": "stadium_service_vehicle",
+      "count": 25,
+      "percentage": 0.0
+    },
+    {
+      "rank": 239,
+      "class_name": "sedimentation_tank",
+      "count": 25,
+      "percentage": 0.0
+    },
+    {
+      "rank": 240,
+      "class_name": "badminton_court",
+      "count": 25,
+      "percentage": 0.0
+    },
+    {
+      "rank": 241,
+      "class_name": "amusement_park_equipment",
+      "count": 25,
+      "percentage": 0.0
+    },
+    {
+      "rank": 242,
+      "class_name": "protection_belt",
+      "count": 25,
+      "percentage": 0.0
+    },
+    {
+      "rank": 243,
+      "class_name": "moss",
+      "count": 25,
+      "percentage": 0.0
+    },
+    {
+      "rank": 244,
+      "class_name": "military_base",
+      "count": 24,
+      "percentage": 0.0
+    },
+    {
+      "rank": 245,
+      "class_name": "diversion_line",
+      "count": 24,
+      "percentage": 0.0
+    },
+    {
+      "rank": 246,
+      "class_name": "fishing_platform",
+      "count": 24,
+      "percentage": 0.0
+    },
+    {
+      "rank": 247,
+      "class_name": "high_voltage_line",
+      "count": 23,
+      "percentage": 0.0
+    },
+    {
+      "rank": 248,
+      "class_name": "greening_facilities",
+      "count": 23,
+      "percentage": 0.0
+    },
+    {
+      "rank": 249,
+      "class_name": "wetland",
+      "count": 23,
+      "percentage": 0.0
+    },
+    {
+      "rank": 250,
+      "class_name": "curb",
+      "count": 23,
+      "percentage": 0.0
+    },
+    {
+      "rank": 251,
+      "class_name": "base_station",
+      "count": 23,
+      "percentage": 0.0
+    },
+    {
+      "rank": 252,
+      "class_name": "recycling_processing_plant",
+      "count": 23,
+      "percentage": 0.0
+    },
+    {
+      "rank": 253,
+      "class_name": "stairs",
+      "count": 22,
+      "percentage": 0.0
+    },
+    {
+      "rank": 254,
+      "class_name": "lighting_tower",
+      "count": 22,
+      "percentage": 0.0
+    },
+    {
+      "rank": 255,
+      "class_name": "athlete_rest_area",
+      "count": 22,
+      "percentage": 0.0
+    },
+    {
+      "rank": 256,
+      "class_name": "pond_sugar",
+      "count": 22,
+      "percentage": 0.0
+    },
+    {
+      "rank": 257,
+      "class_name": "gravel_open_space",
+      "count": 21,
+      "percentage": 0.0
+    },
+    {
+      "rank": 258,
+      "class_name": "ploughing_vehicle",
+      "count": 21,
+      "percentage": 0.0
+    },
+    {
+      "rank": 259,
+      "class_name": "boarding_ladder",
+      "count": 21,
+      "percentage": 0.0
+    },
+    {
+      "rank": 260,
+      "class_name": "nursery",
+      "count": 20,
+      "percentage": 0.0
+    },
+    {
+      "rank": 261,
+      "class_name": "scoreboard",
+      "count": 20,
+      "percentage": 0.0
+    },
+    {
+      "rank": 262,
+      "class_name": "pine_forest",
+      "count": 20,
+      "percentage": 0.0
+    },
+    {
+      "rank": 263,
+      "class_name": "hydroelectric_power_station",
+      "count": 20,
+      "percentage": 0.0
+    },
+    {
+      "rank": 264,
+      "class_name": "liquid_storage_tank",
+      "count": 20,
+      "percentage": 0.0
+    },
+    {
+      "rank": 265,
+      "class_name": "concrete_factory",
+      "count": 20,
+      "percentage": 0.0
+    },
+    {
+      "rank": 266,
+      "class_name": "wooden_pole",
+      "count": 19,
+      "percentage": 0.0
+    },
+    {
+      "rank": 267,
+      "class_name": "stadium_light_pole",
+      "count": 19,
+      "percentage": 0.0
+    },
+    {
+      "rank": 268,
+      "class_name": "coconut_tree",
+      "count": 19,
+      "percentage": 0.0
+    },
+    {
+      "rank": 269,
+      "class_name": "oak_planting_area",
+      "count": 19,
+      "percentage": 0.0
+    },
+    {
+      "rank": 270,
+      "class_name": "motorhome",
+      "count": 19,
+      "percentage": 0.0
+    },
+    {
+      "rank": 271,
+      "class_name": "rocky_beach",
+      "count": 18,
+      "percentage": 0.0
+    },
+    {
+      "rank": 272,
+      "class_name": "haystack",
+      "count": 18,
+      "percentage": 0.0
+    },
+    {
+      "rank": 273,
+      "class_name": "business_vehicle",
+      "count": 18,
+      "percentage": 0.0
+    },
+    {
+      "rank": 274,
+      "class_name": "shadow",
+      "count": 17,
+      "percentage": 0.0
+    },
+    {
+      "rank": 275,
+      "class_name": "cabin",
+      "count": 17,
+      "percentage": 0.0
+    },
+    {
+      "rank": 276,
+      "class_name": "towing_locomotive",
+      "count": 17,
+      "percentage": 0.0
+    },
+    {
+      "rank": 277,
+      "class_name": "gas_station",
+      "count": 17,
+      "percentage": 0.0
+    },
+    {
+      "rank": 278,
+      "class_name": "potted_plant",
+      "count": 17,
+      "percentage": 0.0
+    },
+    {
+      "rank": 279,
+      "class_name": "bay",
+      "count": 17,
+      "percentage": 0.0
+    },
+    {
+      "rank": 280,
+      "class_name": "oil_field",
+      "count": 17,
+      "percentage": 0.0
+    },
+    {
+      "rank": 281,
+      "class_name": "spillway_dam",
+      "count": 17,
+      "percentage": 0.0
+    },
+    {
+      "rank": 282,
+      "class_name": "electronic_capture_pole",
+      "count": 16,
+      "percentage": 0.0
+    },
+    {
+      "rank": 283,
+      "class_name": "school_building",
+      "count": 16,
+      "percentage": 0.0
+    },
+    {
+      "rank": 284,
+      "class_name": "grassland_bar",
+      "count": 16,
+      "percentage": 0.0
+    },
+    {
+      "rank": 285,
+      "class_name": "oil_well",
+      "count": 16,
+      "percentage": 0.0
+    },
+    {
+      "rank": 286,
+      "class_name": "football_goal_net",
+      "count": 15,
+      "percentage": 0.0
+    },
+    {
+      "rank": 287,
+      "class_name": "stone_post",
+      "count": 15,
+      "percentage": 0.0
+    },
+    {
+      "rank": 288,
+      "class_name": "flagpole",
+      "count": 15,
+      "percentage": 0.0
+    },
+    {
+      "rank": 289,
+      "class_name": "homestead",
+      "count": 15,
+      "percentage": 0.0
+    },
+    {
+      "rank": 290,
+      "class_name": "picnic_table",
+      "count": 15,
+      "percentage": 0.0
+    },
+    {
+      "rank": 291,
+      "class_name": "height_restriction_bar",
+      "count": 14,
+      "percentage": 0.0
+    },
+    {
+      "rank": 292,
+      "class_name": "conveyor_belt",
+      "count": 14,
+      "percentage": 0.0
+    },
+    {
+      "rank": 293,
+      "class_name": "protective_wall",
+      "count": 14,
+      "percentage": 0.0
+    },
+    {
+      "rank": 294,
+      "class_name": "rock_desert",
+      "count": 14,
+      "percentage": 0.0
+    },
+    {
+      "rank": 295,
+      "class_name": "pit",
+      "count": 13,
+      "percentage": 0.0
+    },
+    {
+      "rank": 296,
+      "class_name": "wind_power_machine",
+      "count": 13,
+      "percentage": 0.0
+    },
+    {
+      "rank": 297,
+      "class_name": "reef",
+      "count": 13,
+      "percentage": 0.0
+    },
+    {
+      "rank": 298,
+      "class_name": "charging_pile",
+      "count": 13,
+      "percentage": 0.0
+    },
+    {
+      "rank": 299,
+      "class_name": "race_track",
+      "count": 12,
+      "percentage": 0.0
+    },
+    {
+      "rank": 300,
+      "class_name": "roadside",
+      "count": 12,
+      "percentage": 0.0
+    },
+    {
+      "rank": 301,
+      "class_name": "office_building",
+      "count": 12,
+      "percentage": 0.0
+    },
+    {
+      "rank": 302,
+      "class_name": "aircraft_maintenance_equipment",
+      "count": 12,
+      "percentage": 0.0
+    },
+    {
+      "rank": 303,
+      "class_name": "fishing_net",
+      "count": 11,
+      "percentage": 0.0
+    },
+    {
+      "rank": 304,
+      "class_name": "bus_stop",
+      "count": 11,
+      "percentage": 0.0
+    },
+    {
+      "rank": 305,
+      "class_name": "substation_office",
+      "count": 11,
+      "percentage": 0.0
+    },
+    {
+      "rank": 306,
+      "class_name": "sediment",
+      "count": 11,
+      "percentage": 0.0
+    },
+    {
+      "rank": 307,
+      "class_name": "shipbuilding_materials",
+      "count": 11,
+      "percentage": 0.0
+    },
+    {
+      "rank": 308,
+      "class_name": "long_climbing_field",
+      "count": 11,
+      "percentage": 0.0
+    },
+    {
+      "rank": 309,
+      "class_name": "service_station",
+      "count": 11,
+      "percentage": 0.0
+    },
+    {
+      "rank": 310,
+      "class_name": "natural_gas_factory",
+      "count": 11,
+      "percentage": 0.0
+    },
+    {
+      "rank": 311,
+      "class_name": "salt_pool",
+      "count": 10,
+      "percentage": 0.0
+    },
+    {
+      "rank": 312,
+      "class_name": "dry_ground",
+      "count": 10,
+      "percentage": 0.0
+    },
+    {
+      "rank": 313,
+      "class_name": "purification_pool",
+      "count": 10,
+      "percentage": 0.0
+    },
+    {
+      "rank": 314,
+      "class_name": "corn_field",
+      "count": 10,
+      "percentage": 0.0
+    },
+    {
+      "rank": 315,
+      "class_name": "small_jet",
+      "count": 10,
+      "percentage": 0.0
+    },
+    {
+      "rank": 316,
+      "class_name": "shack",
+      "count": 10,
+      "percentage": 0.0
+    },
+    {
+      "rank": 317,
+      "class_name": "podium",
+      "count": 10,
+      "percentage": 0.0
+    },
+    {
+      "rank": 318,
+      "class_name": "ice_ridge",
+      "count": 10,
+      "percentage": 0.0
+    },
+    {
+      "rank": 319,
+      "class_name": "bridge_vehicle",
+      "count": 10,
+      "percentage": 0.0
+    },
+    {
+      "rank": 320,
+      "class_name": "plastic_shed",
+      "count": 9,
+      "percentage": 0.0
+    },
+    {
+      "rank": 321,
+      "class_name": "irrigation_equipment",
+      "count": 9,
+      "percentage": 0.0
+    },
+    {
+      "rank": 322,
+      "class_name": "sandy_soil",
+      "count": 9,
+      "percentage": 0.0
+    },
+    {
+      "rank": 323,
+      "class_name": "pallet_stack",
+      "count": 9,
+      "percentage": 0.0
+    },
+    {
+      "rank": 324,
+      "class_name": "manor",
+      "count": 9,
+      "percentage": 0.0
+    },
+    {
+      "rank": 325,
+      "class_name": "speedboat",
+      "count": 9,
+      "percentage": 0.0
+    },
+    {
+      "rank": 326,
+      "class_name": "ranch",
+      "count": 9,
+      "percentage": 0.0
+    },
+    {
+      "rank": 327,
+      "class_name": "covered_bridge",
+      "count": 9,
+      "percentage": 0.0
+    },
+    {
+      "rank": 328,
+      "class_name": "artificial_lawn",
+      "count": 9,
+      "percentage": 0.0
+    },
+    {
+      "rank": 329,
+      "class_name": "cargo_ship",
+      "count": 9,
+      "percentage": 0.0
+    },
+    {
+      "rank": 330,
+      "class_name": "fuel_storage_tank",
+      "count": 9,
+      "percentage": 0.0
+    },
+    {
+      "rank": 331,
+      "class_name": "water_park",
+      "count": 9,
+      "percentage": 0.0
+    },
+    {
+      "rank": 332,
+      "class_name": "wooden_bridge",
+      "count": 8,
+      "percentage": 0.0
+    },
+    {
+      "rank": 333,
+      "class_name": "water_trough",
+      "count": 8,
+      "percentage": 0.0
+    },
+    {
+      "rank": 334,
+      "class_name": "swimming_pool_lounge",
+      "count": 8,
+      "percentage": 0.0
+    },
+    {
+      "rank": 335,
+      "class_name": "stone_stall",
+      "count": 8,
+      "percentage": 0.0
+    },
+    {
+      "rank": 336,
+      "class_name": "business_park",
+      "count": 8,
+      "percentage": 0.0
+    },
+    {
+      "rank": 337,
+      "class_name": "mountain_peak",
+      "count": 8,
+      "percentage": 0.0
+    },
+    {
+      "rank": 338,
+      "class_name": "aircraft_tug",
+      "count": 8,
+      "percentage": 0.0
+    },
+    {
+      "rank": 339,
+      "class_name": "well",
+      "count": 8,
+      "percentage": 0.0
+    },
+    {
+      "rank": 340,
+      "class_name": "paving_equipment",
+      "count": 8,
+      "percentage": 0.0
+    },
+    {
+      "rank": 341,
+      "class_name": "barrier_gate",
+      "count": 8,
+      "percentage": 0.0
+    },
+    {
+      "rank": 342,
+      "class_name": "concrete_mixing_facility",
+      "count": 8,
+      "percentage": 0.0
+    },
+    {
+      "rank": 343,
+      "class_name": "earth_slope",
+      "count": 8,
+      "percentage": 0.0
+    },
+    {
+      "rank": 344,
+      "class_name": "sandbar",
+      "count": 7,
+      "percentage": 0.0
+    },
+    {
+      "rank": 345,
+      "class_name": "parking_pole",
+      "count": 7,
+      "percentage": 0.0
+    },
+    {
+      "rank": 346,
+      "class_name": "tower_crane",
+      "count": 7,
+      "percentage": 0.0
+    },
+    {
+      "rank": 347,
+      "class_name": "mountain_forest",
+      "count": 7,
+      "percentage": 0.0
+    },
+    {
+      "rank": 348,
+      "class_name": "breakwater",
+      "count": 7,
+      "percentage": 0.0
+    },
+    {
+      "rank": 349,
+      "class_name": "aquaculture_pond",
+      "count": 7,
+      "percentage": 0.0
+    },
+    {
+      "rank": 350,
+      "class_name": "fog",
+      "count": 7,
+      "percentage": 0.0
+    },
+    {
+      "rank": 351,
+      "class_name": "school_playground",
+      "count": 7,
+      "percentage": 0.0
+    },
+    {
+      "rank": 352,
+      "class_name": "pedestrian_overpass",
+      "count": 7,
+      "percentage": 0.0
+    },
+    {
+      "rank": 353,
+      "class_name": "bulldozer",
+      "count": 7,
+      "percentage": 0.0
+    },
+    {
+      "rank": 354,
+      "class_name": "lifting_device",
+      "count": 7,
+      "percentage": 0.0
+    },
+    {
+      "rank": 355,
+      "class_name": "oil_drilling_rig",
+      "count": 7,
+      "percentage": 0.0
+    },
+    {
+      "rank": 356,
+      "class_name": "shot_put_field",
+      "count": 6,
+      "percentage": 0.0
+    },
+    {
+      "rank": 357,
+      "class_name": "color_steel_roof",
+      "count": 6,
+      "percentage": 0.0
+    },
+    {
+      "rank": 358,
+      "class_name": "rugby_field",
+      "count": 6,
+      "percentage": 0.0
+    },
+    {
+      "rank": 359,
+      "class_name": "roof_equipment",
+      "count": 6,
+      "percentage": 0.0
+    },
+    {
+      "rank": 360,
+      "class_name": "river_dam",
+      "count": 6,
+      "percentage": 0.0
+    },
+    {
+      "rank": 361,
+      "class_name": "swimming_pool_chair",
+      "count": 6,
+      "percentage": 0.0
+    },
+    {
+      "rank": 362,
+      "class_name": "baseball_field_lounge",
+      "count": 6,
+      "percentage": 0.0
+    },
+    {
+      "rank": 363,
+      "class_name": "loading_and_unloading_platform",
+      "count": 6,
+      "percentage": 0.0
+    },
+    {
+      "rank": 364,
+      "class_name": "surfboard",
+      "count": 6,
+      "percentage": 0.0
+    },
+    {
+      "rank": 365,
+      "class_name": "roof_truss",
+      "count": 6,
+      "percentage": 0.0
+    },
+    {
+      "rank": 366,
+      "class_name": "rock_mortar",
+      "count": 6,
+      "percentage": 0.0
+    },
+    {
+      "rank": 367,
+      "class_name": "barge",
+      "count": 6,
+      "percentage": 0.0
+    },
+    {
+      "rank": 368,
+      "class_name": "sales_kiosk",
+      "count": 6,
+      "percentage": 0.0
+    },
+    {
+      "rank": 369,
+      "class_name": "natural_gas_field",
+      "count": 6,
+      "percentage": 0.0
+    },
+    {
+      "rank": 370,
+      "class_name": "seawall",
+      "count": 5,
+      "percentage": 0.0
+    },
+    {
+      "rank": 371,
+      "class_name": "statue",
+      "count": 5,
+      "percentage": 0.0
+    },
+    {
+      "rank": 372,
+      "class_name": "floodway",
+      "count": 5,
+      "percentage": 0.0
+    },
+    {
+      "rank": 373,
+      "class_name": "floor_slab",
+      "count": 5,
+      "percentage": 0.0
+    },
+    {
+      "rank": 374,
+      "class_name": "resort",
+      "count": 5,
+      "percentage": 0.0
+    },
+    {
+      "rank": 375,
+      "class_name": "gas_pipeline",
+      "count": 5,
+      "percentage": 0.0
+    },
+    {
+      "rank": 376,
+      "class_name": "sandbag",
+      "count": 5,
+      "percentage": 0.0
+    },
+    {
+      "rank": 377,
+      "class_name": "industrial_building_materials",
+      "count": 5,
+      "percentage": 0.0
+    },
+    {
+      "rank": 378,
+      "class_name": "boathouse",
+      "count": 5,
+      "percentage": 0.0
+    },
+    {
+      "rank": 379,
+      "class_name": "Construction_road",
+      "count": 5,
+      "percentage": 0.0
+    },
+    {
+      "rank": 380,
+      "class_name": "parking_space_marking",
+      "count": 5,
+      "percentage": 0.0
+    },
+    {
+      "rank": 381,
+      "class_name": "mining_truck",
+      "count": 5,
+      "percentage": 0.0
+    },
+    {
+      "rank": 382,
+      "class_name": "tennis_court_lamppost",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 383,
+      "class_name": "small_peninsula",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 384,
+      "class_name": "moat",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 385,
+      "class_name": "ancient_building",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 386,
+      "class_name": "dead_tree",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 387,
+      "class_name": "corrugated_iron_roof",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 388,
+      "class_name": "sparse_grassland",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 389,
+      "class_name": "rockery",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 390,
+      "class_name": "cruise_ship",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 391,
+      "class_name": "lava_ground",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 392,
+      "class_name": "toll_station",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 393,
+      "class_name": "floating_structure",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 394,
+      "class_name": "processing_plant",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 395,
+      "class_name": "riprap",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 396,
+      "class_name": "light_rail",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 397,
+      "class_name": "garage",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 398,
+      "class_name": "stone_mining_machine",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 399,
+      "class_name": "luggage_cart",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 400,
+      "class_name": "ruins",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 401,
+      "class_name": "wood_yard",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 402,
+      "class_name": "farming_equipment",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 403,
+      "class_name": "fallow_land",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 404,
+      "class_name": "steel_mill",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 405,
+      "class_name": "frozen_soil",
+      "count": 4,
+      "percentage": 0.0
+    },
+    {
+      "rank": 406,
+      "class_name": "construction_vehicle",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 407,
+      "class_name": "irrigation_ditch",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 408,
+      "class_name": "oil_pipe",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 409,
+      "class_name": "hospital",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 410,
+      "class_name": "arch_bridge",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 411,
+      "class_name": "volcanic_cone",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 412,
+      "class_name": "flowers",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 413,
+      "class_name": "industrial_vehicle",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 414,
+      "class_name": "lotus_pond",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 415,
+      "class_name": "command_post_building",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 416,
+      "class_name": "coal_yard",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 417,
+      "class_name": "mine_pit",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 418,
+      "class_name": "racecourse",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 419,
+      "class_name": "skateboard_park",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 420,
+      "class_name": "pitching_area",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 421,
+      "class_name": "batting_area",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 422,
+      "class_name": "cable_car",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 423,
+      "class_name": "cool_seat",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 424,
+      "class_name": "conveying_equipment",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 425,
+      "class_name": "aircraft_carrier",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 426,
+      "class_name": "ice_rink",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 427,
+      "class_name": "oil_refining_tank",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 428,
+      "class_name": "river_island",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 429,
+      "class_name": "baseball_field_fence",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 430,
+      "class_name": "glacier_stream",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 431,
+      "class_name": "speed_bump",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 432,
+      "class_name": "transparent_roof",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 433,
+      "class_name": "transport_aircraft",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 434,
+      "class_name": "waterfall",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 435,
+      "class_name": "stone_forest",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 436,
+      "class_name": "sports_park",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 437,
+      "class_name": "waiting_shed",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 438,
+      "class_name": "plow_furrow",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 439,
+      "class_name": "cement_pipe",
+      "count": 3,
+      "percentage": 0.0
+    },
+    {
+      "rank": 440,
+      "class_name": "satellite_antenna",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 441,
+      "class_name": "traffic_direction_arrow",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 442,
+      "class_name": "laboratory",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 443,
+      "class_name": "baseball_field_service_vehicle",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 444,
+      "class_name": "water_supply_station",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 445,
+      "class_name": "scrap_metal",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 446,
+      "class_name": "long_jump_field",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 447,
+      "class_name": "limestone",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 448,
+      "class_name": "monument",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 449,
+      "class_name": "coal_mining_machine",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 450,
+      "class_name": "reservoir_office",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 451,
+      "class_name": "chimney",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 452,
+      "class_name": "rapeseed_field",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 453,
+      "class_name": "metal_shed",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 454,
+      "class_name": "cement_tank",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 455,
+      "class_name": "water_slide",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 456,
+      "class_name": "tanker_truck",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 457,
+      "class_name": "equestrian_track",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 458,
+      "class_name": "sandstone",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 459,
+      "class_name": "harvester",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 460,
+      "class_name": "balcony",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 461,
+      "class_name": "water_raft",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 462,
+      "class_name": "badminton_net",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 463,
+      "class_name": "shore_stall",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 464,
+      "class_name": "sand_factory",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 465,
+      "class_name": "high_voltage_power_lines",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 466,
+      "class_name": "car_box",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 467,
+      "class_name": "intertidal_zone",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 468,
+      "class_name": "industrial_grassland",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 469,
+      "class_name": "sand_quarry",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 470,
+      "class_name": "tidal_beach",
+      "count": 2,
+      "percentage": 0.0
+    },
+    {
+      "rank": 471,
+      "class_name": "swing",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 472,
+      "class_name": "cave_entrance",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 473,
+      "class_name": "archway",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 474,
+      "class_name": "underground_storage_tank",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 475,
+      "class_name": "lake_center_stone",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 476,
+      "class_name": "bunker",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 477,
+      "class_name": "shipyard",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 478,
+      "class_name": "defensive_works",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 479,
+      "class_name": "high-speed_rail_station_canopy",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 480,
+      "class_name": "stone_slope",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 481,
+      "class_name": "glacier_tongue",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 482,
+      "class_name": "long_jump_sandpit",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 483,
+      "class_name": "granite_ground",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 484,
+      "class_name": "observatory",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 485,
+      "class_name": "pedestrian_ladder_road",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 486,
+      "class_name": "iron_rod",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 487,
+      "class_name": "elevated_building",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 488,
+      "class_name": "nuclear_power_station",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 489,
+      "class_name": "flag-raising_platform",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 490,
+      "class_name": "prison",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 491,
+      "class_name": "campsite",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 492,
+      "class_name": "community_center",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 493,
+      "class_name": "equestrian_venue",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 494,
+      "class_name": "mosque",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 495,
+      "class_name": "karting_track",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 496,
+      "class_name": "turbulent_flow",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 497,
+      "class_name": "rocky_shore",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 498,
+      "class_name": "Red_Cross_building",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 499,
+      "class_name": "ping_pong_table",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 500,
+      "class_name": "mall",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 501,
+      "class_name": "anemometer",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 502,
+      "class_name": "service_vehicle_road",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 503,
+      "class_name": "sand_slope",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 504,
+      "class_name": "street_trees",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 505,
+      "class_name": "concrete_tank",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 506,
+      "class_name": "office_trailer",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 507,
+      "class_name": "security_room",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 508,
+      "class_name": "pitching_net",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 509,
+      "class_name": "subway_station",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 510,
+      "class_name": "slate",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 511,
+      "class_name": "floating_fence",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 512,
+      "class_name": "tunnel_entrance",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 513,
+      "class_name": "steel_pipe",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 514,
+      "class_name": "drain_outlet",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 515,
+      "class_name": "sailboat",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 516,
+      "class_name": "engineering_vehicle",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 517,
+      "class_name": "rain_shelter",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 518,
+      "class_name": "bus_stop_sign",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 519,
+      "class_name": "lifebuoy",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 520,
+      "class_name": "offshore_oil_drilling_platform",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 521,
+      "class_name": "ferry",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 522,
+      "class_name": "table_tennis_court",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 523,
+      "class_name": "volleyball_court",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 524,
+      "class_name": "drainage_ditch",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 525,
+      "class_name": "community_garden",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 526,
+      "class_name": "rope_bridge",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 527,
+      "class_name": "stadium_street_lights",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 528,
+      "class_name": "vertical_bridge",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 529,
+      "class_name": "cooling_tower",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 530,
+      "class_name": "batting_cage",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 531,
+      "class_name": "hot_air_balloon",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 532,
+      "class_name": "aircraft_landing_area",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 533,
+      "class_name": "netball_court_seat",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 534,
+      "class_name": "red_rock_area",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 535,
+      "class_name": "industrial_container",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 536,
+      "class_name": "road_stake",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 537,
+      "class_name": "mud_and_sand_feather_flow",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 538,
+      "class_name": "duckweed",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 539,
+      "class_name": "cooling_shed",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 540,
+      "class_name": "abandoned_stadium",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 541,
+      "class_name": "air_conditioning_equipment",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 542,
+      "class_name": "central_control_building",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 543,
+      "class_name": "antenna_rack",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 544,
+      "class_name": "stele",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 545,
+      "class_name": "windsock",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 546,
+      "class_name": "air_force_base",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 547,
+      "class_name": "roof_solar_panel",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 548,
+      "class_name": "springboard",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": 549,
+      "class_name": "Circular_theater",
+      "count": 1,
+      "percentage": 0.0
+    },
+    {
+      "rank": null,
+      "class_name": "合计  Total",
+      "count": 1403983,
+      "percentage": 100.0
+    }
+  ],
+  "summary": {
+    "统计摘要 / Statistics Summary": null,
+    "处理时间": "2026-06-11 11:09:54",
+    "图像目录": "D:\\SkySense-O-pretrained_model\\dataset_release\\ann_dir_rgb",
+    "查找表文件": "D:\\SkySense-O-pretrained_model\\dataset_release\\skysense_colortable_selected600_v7.json",
+    "图像总数": "33776",
+    "查找表类别总数": "565",
+    "标注中出现的类别数": "549",
+    "实体总数（连通域）": "1403983",
+    "处理错误图像数": "0",
+    "处理耗时（秒）": "161.0",
+    "Top 30 实体最多的类别": "实体数量",
+    "grassland": 260144,
+    "tree": 256613,
+    "bare_land": 180088,
+    "building": 133058,
+    "airport": 77798,
+    "vehicles": 72986,
+    "paved_area": 46862,
+    "farmland": 35169,
+    "rural_road": 31740,
+    "barren_terrain": 30961,
+    "parking_lot": 27690,
+    "low_shrubs": 15708,
+    "water": 14722,
+    "compact_car": 12624,
+    "residential_building": 11023,
+    "forest": 9143,
+    "ship": 8694,
+    "golf_course": 8469,
+    "solar_panel": 7446,
+    "tombstone": 6865,
+    "street_lamp": 6773,
+    "field_ridge": 5470,
+    "sand_pit": 5277,
+    "river": 5178,
+    "industrial_area": 4562,
+    "dried_riverbed": 4512,
+    "swimming_pool": 4057,
+    "dock": 3954,
+    "boat": 3862,
+    "baseball_field": 3533
+  },
+  "not_appeared": [
+    {
+      "rank": "类别名称",
+      "class_name": "BGR 值（查找表）",
+      "bgr": null
+    },
+    {
+      "rank": "Closed_deciduous_broadleaved_forest",
+      "class_name": "[35, 90, 45]",
+      "bgr": null
+    },
+    {
+      "rank": "Closed_deciduous_needle-leaved_forest",
+      "class_name": "[40, 80, 30]",
+      "bgr": null
+    },
+    {
+      "rank": "Closed_evergreen_needle-leaved_forest",
+      "class_name": "[50, 70, 20]",
+      "bgr": null
+    },
+    {
+      "rank": "Open_deciduous_broadleaved_forest",
+      "class_name": "[60, 140, 100]",
+      "bgr": null
+    },
+    {
+      "rank": "Open_deciduous_needle-leaved_forest",
+      "class_name": "[70, 120, 60]",
+      "bgr": null
+    },
+    {
+      "rank": "Open_evergreen_broadleaved_forest",
+      "class_name": "[45, 110, 60]",
+      "bgr": null
+    },
+    {
+      "rank": "Open_evergreen_needle-leaved_forest",
+      "class_name": "[80, 100, 40]",
+      "bgr": null
+    },
+    {
+      "rank": "airport_service_road",
+      "class_name": "[140, 140, 140]",
+      "bgr": null
+    },
+    {
+      "rank": "alley",
+      "class_name": "[140, 140, 140]",
+      "bgr": null
+    },
+    {
+      "rank": "asphalt_road",
+      "class_name": "[130, 130, 130]",
+      "bgr": null
+    },
+    {
+      "rank": "bridge",
+      "class_name": "[125, 125, 125]",
+      "bgr": null
+    },
+    {
+      "rank": "broken_bridge",
+      "class_name": "[115, 115, 115]",
+      "bgr": null
+    },
+    {
+      "rank": "cable_rope",
+      "class_name": "[190, 110, 145]",
+      "bgr": null
+    },
+    {
+      "rank": "canyon",
+      "class_name": "[80, 110, 140]",
+      "bgr": null
+    },
+    {
+      "rank": "cement_road",
+      "class_name": "[130, 130, 130]",
+      "bgr": null
+    },
+    {
+      "rank": "dirt_path",
+      "class_name": "[60, 60, 60]",
+      "bgr": null
+    },
+    {
+      "rank": "field_road",
+      "class_name": "[130, 130, 130]",
+      "bgr": null
+    },
+    {
+      "rank": "forest_path",
+      "class_name": "[135, 135, 135]",
+      "bgr": null
+    },
+    {
+      "rank": "government_building",
+      "class_name": "[70, 70, 230]",
+      "bgr": null
+    },
+    {
+      "rank": "highway_overpass",
+      "class_name": "[155, 155, 155]",
+      "bgr": null
+    },
+    {
+      "rank": "hotel",
+      "class_name": "[100, 110, 255]",
+      "bgr": null
+    },
+    {
+      "rank": "low-speed_highway",
+      "class_name": "[135, 135, 135]",
+      "bgr": null
+    },
+    {
+      "rank": "motorboat",
+      "class_name": "[220, 210, 210]",
+      "bgr": null
+    },
+    {
+      "rank": "motorcycle",
+      "class_name": "[240, 185, 215]",
+      "bgr": null
+    },
+    {
+      "rank": "mountain_road",
+      "class_name": "[70, 70, 70]",
+      "bgr": null
+    },
+    {
+      "rank": "orchard_trees",
+      "class_name": "[70, 160, 110]",
+      "bgr": null
+    },
+    {
+      "rank": "overpass_bridge",
+      "class_name": "[165, 165, 165]",
+      "bgr": null
+    },
+    {
+      "rank": "parking_shed",
+      "class_name": "[185, 185, 185]",
+      "bgr": null
+    },
+    {
+      "rank": "patio",
+      "class_name": "[120, 170, 190]",
+      "bgr": null
+    },
+    {
+      "rank": "paving_path",
+      "class_name": "[130, 130, 130]",
+      "bgr": null
+    },
+    {
+      "rank": "plank_road",
+      "class_name": "[120, 120, 120]",
+      "bgr": null
+    },
+    {
+      "rank": "port",
+      "class_name": "[130, 130, 130]",
+      "bgr": null
+    },
+    {
+      "rank": "ramp",
+      "class_name": "[160, 160, 160]",
+      "bgr": null
+    },
+    {
+      "rank": "reed_bed",
+      "class_name": "[90, 170, 150]",
+      "bgr": null
+    },
+    {
+      "rank": "road",
+      "class_name": "[208, 208, 208]",
+      "bgr": null
+    },
+    {
+      "rank": "rocky_landscape",
+      "class_name": "[100, 120, 140]",
+      "bgr": null
+    },
+    {
+      "rank": "sand_dune",
+      "class_name": "[115, 195, 225]",
+      "bgr": null
+    },
+    {
+      "rank": "sidewalk",
+      "class_name": "[130, 130, 130]",
+      "bgr": null
+    },
+    {
+      "rank": "steep_slope",
+      "class_name": "[150, 150, 150]",
+      "bgr": null
+    },
+    {
+      "rank": "street",
+      "class_name": "[130, 130, 130]",
+      "bgr": null
+    },
+    {
+      "rank": "tractor",
+      "class_name": "[200, 120, 150]",
+      "bgr": null
+    },
+    {
+      "rank": "traffic_roundabout",
+      "class_name": "[175, 175, 175]",
+      "bgr": null
+    },
+    {
+      "rank": "tundra",
+      "class_name": "[140, 190, 180]",
+      "bgr": null
+    },
+    {
+      "rank": "urban_village_building",
+      "class_name": "[40, 50, 190]",
+      "bgr": null
+    },
+    {
+      "rank": "viewing_area",
+      "class_name": "[85, 170, 255]",
+      "bgr": null
+    },
+    {
+      "rank": "walkway",
+      "class_name": "[170, 170, 170]",
+      "bgr": null
+    },
+    {
+      "rank": "waste_station",
+      "class_name": "[56, 60, 200]",
+      "bgr": null
+    },
+    {
+      "rank": "wasteland",
+      "class_name": "[90, 155, 195]",
+      "bgr": null
+    },
+    {
+      "rank": "water_diversion_channel",
+      "class_name": "[220, 160, 60]",
+      "bgr": null
+    },
+    {
+      "rank": "watering_truck",
+      "class_name": "[210, 130, 165]",
+      "bgr": null
+    }
+  ]
+}

@@ -1,0 +1,1055 @@
+================================================================================
+【表一】通用地物类别（全部行均为 non_diagnostic，无固定气候分区）
+共计：498 个
+================================================================================
+    1. Circular_theater
+    2. Construction_road
+    3. Red_Cross_building
+    4. abandoned_airport
+    5. abandoned_industrial_area
+    6. abandoned_materials
+    7. abandoned_stadium
+    8. abandoned_track
+    9. air_conditioning_equipment
+   10. air_force_base
+   11. aircraft_carrier
+   12. aircraft_hangar
+   13. aircraft_landing_area
+   14. aircraft_maintenance_equipment
+   15. aircraft_parking_area
+   16. aircraft_tug
+   17. airplane
+   18. airport
+   19. airport_service_equipment
+   20. airport_service_road
+   21. airport_service_vehicle
+   22. airport_terminal
+   23. alley
+   24. amusement_park_equipment
+   25. ancient_building
+   26. anemometer
+   27. antenna_rack
+   28. apartment
+   29. arbor
+   30. arch_bridge
+   31. archway
+   32. artificial_lawn
+   33. asphalt_road
+   34. athlete_rest_area
+   35. audience_stand
+   36. badminton_court
+   37. badminton_net
+   38. balcony
+   39. bamboo_pole
+   40. barge
+   41. barrier_gate
+   42. base_station
+   43. baseball_field
+   44. baseball_field_fence
+   45. baseball_field_lounge
+   46. baseball_field_service_vehicle
+   47. basketball_court
+   48. basketball_rack
+   49. batting_area
+   50. batting_cage
+   51. bay
+   52. beach
+   53. beach_chair
+   54. bench
+   55. billboard
+   56. boarding_building
+   57. boarding_ladder
+   58. boarding_passage
+   59. boat
+   60. boathouse
+   61. breakwater
+   62. bridge
+   63. bridge_vehicle
+   64. broken_bridge
+   65. building
+   66. building_materials
+   67. bulldozer
+   68. bunker
+   69. bus
+   70. bus_stop
+   71. bus_stop_sign
+   72. business_park
+   73. business_vehicle
+   74. cabin
+   75. cable
+   76. cable_car
+   77. cable_rope
+   78. campsite
+   79. canyon
+   80. car_box
+   81. cargo_container
+   82. cargo_ship
+   83. cave_entrance
+   84. cement_floor
+   85. cement_pipe
+   86. cement_road
+   87. cement_tank
+   88. central_control_building
+   89. chair
+   90. charging_pile
+   91. chemical_factory
+   92. chimney
+   93. church
+   94. circular_treatment_tank
+   95. clouds
+   96. coal_mining_machine
+   97. coal_yard
+   98. coast
+   99. color_steel_roof
+  100. color_steel_shed
+  101. command_post_building
+  102. commercial_building
+  103. community_center
+  104. community_garden
+  105. compact_car
+  106. concrete_factory
+  107. concrete_mixing_facility
+  108. concrete_tank
+  109. construction_equipment
+  110. construction_frame
+  111. construction_site
+  112. construction_vehicle
+  113. conveying_equipment
+  114. conveyor_belt
+  115. cool_seat
+  116. cooling_shed
+  117. cooling_tower
+  118. corrugated_iron_roof
+  119. covered_bridge
+  120. crane
+  121. cruise_ship
+  122. curb
+  123. dead_tree
+  124. defensive_works
+  125. dirt_path
+  126. ditch
+  127. diversion_line
+  128. dock
+  129. drain_outlet
+  130. dried_riverbed
+  131. earth_slope
+  132. electric_pole
+  133. electric_tower
+  134. electronic_capture_pole
+  135. elevated_building
+  136. enclosure_wall
+  137. engineering_vehicle
+  138. equestrian_track
+  139. equestrian_venue
+  140. excavation_site
+  141. excavator
+  142. farmhouse
+  143. farming_equipment
+  144. fence
+  145. ferry
+  146. field_ridge
+  147. field_road
+  148. fishing_net
+  149. fishing_platform
+  150. flag-raising_platform
+  151. flagpole
+  152. floating_fence
+  153. floating_structure
+  154. floor_slab
+  155. flower_bed
+  156. flowers
+  157. fog
+  158. football_field
+  159. football_goal
+  160. football_goal_net
+  161. fountain_pool
+  162. fuel_storage_tank
+  163. garage
+  164. garden
+  165. gas_pipeline
+  166. gas_station
+  167. gas_tank
+  168. golf_cart
+  169. golf_cart_path
+  170. golf_course
+  171. golf_course_bunker
+  172. golf_fairway
+  173. golf_hole
+  174. goose_egg_path
+  175. government_building
+  176. granite_ground
+  177. gravel_road
+  178. green_belt
+  179. greening_facilities
+  180. guardrail
+  181. guide_car
+  182. gymnasium
+  183. harvester
+  184. haystack
+  185. hedge
+  186. height_restriction_bar
+  187. helicopter
+  188. helicopter_pad
+  189. helipad_marking
+  190. high-speed_rail_station_canopy
+  191. high_voltage_line
+  192. high_voltage_power_lines
+  193. highway
+  194. highway_overpass
+  195. hills
+  196. hillside
+  197. homestead
+  198. hospital
+  199. hot_air_balloon
+  200. hotel
+  201. industrial_area
+  202. industrial_building
+  203. industrial_building_materials
+  204. industrial_container
+  205. industrial_equipment
+  206. industrial_materials
+  207. industrial_vehicle
+  208. intertidal_zone
+  209. iron_rod
+  210. irrigation_equipment
+  211. island
+  212. junkyard
+  213. karting_track
+  214. laboratory
+  215. lake
+  216. lake_center_stone
+  217. lake_island
+  218. lakeside
+  219. landscape_plants
+  220. lava_ground
+  221. lifebuoy
+  222. lifting_device
+  223. light_rail
+  224. lighting_tower
+  225. limestone
+  226. liquid_storage_tank
+  227. loading_and_unloading_platform
+  228. long_climbing_field
+  229. long_jump_field
+  230. low-speed_highway
+  231. luggage_cart
+  232. mall
+  233. manhole_cover
+  234. manor
+  235. material_yard
+  236. metal_shed
+  237. military_base
+  238. mine_pit
+  239. mining_truck
+  240. moat
+  241. mobile_house
+  242. monument
+  243. mosque
+  244. motorboat
+  245. motorcycle
+  246. motorhome
+  247. mound
+  248. mountain
+  249. mountain_gully
+  250. mountain_peak
+  251. mountain_road
+  252. mud_and_sand_feather_flow
+  253. muddy_ground
+  254. natural_gas_factory
+  255. natural_gas_field
+  256. netball_court_seat
+  257. non-motorized_lane
+  258. nuclear_power_station
+  259. oak_planting_area
+  260. observatory
+  261. ocean
+  262. office_building
+  263. office_trailer
+  264. offshore_oil_drilling_platform
+  265. oil_drilling_rig
+  266. oil_extraction_machine
+  267. oil_extraction_site
+  268. oil_field
+  269. oil_pipe
+  270. oil_pipeline
+  271. oil_pump
+  272. oil_refinery_factory
+  273. oil_refining_tank
+  274. oil_tank
+  275. oil_well
+  276. open-pit_mining_area
+  277. overpass_bridge
+  278. pallet_stack
+  279. park
+  280. parking_lot
+  281. parking_pole
+  282. parking_shed
+  283. parking_space_marking
+  284. patio
+  285. paved_area
+  286. pavilion
+  287. paving_equipment
+  288. paving_path
+  289. pedestrian_ladder_road
+  290. pedestrian_overpass
+  291. pedestrian_path
+  292. picnic_table
+  293. pier
+  294. pile_of_rubble
+  295. ping_pong_table
+  296. pipeline_structure
+  297. pit
+  298. pitching_area
+  299. pitching_net
+  300. plain
+  301. plank_road
+  302. plastic_shed
+  303. playground
+  304. ploughing_vehicle
+  305. plow_furrow
+  306. podium
+  307. port
+  308. potted_plant
+  309. power_station
+  310. prison
+  311. processing_plant
+  312. protection_belt
+  313. protective_wall
+  314. puddle
+  315. purification_pool
+  316. quarry
+  317. race_track
+  318. racecourse
+  319. rack
+  320. railway
+  321. railway_platform
+  322. railway_track
+  323. rain_shelter
+  324. ramp
+  325. recycling_processing_plant
+  326. red_rock_area
+  327. reef
+  328. residential_building
+  329. residential_road
+  330. resort
+  331. riprap
+  332. river
+  333. river_beach
+  334. river_island
+  335. riverside
+  336. road
+  337. road_divider
+  338. road_dividing_line
+  339. road_marking
+  340. road_stake
+  341. roadside
+  342. rock pile
+  343. rock_mortar
+  344. rockery
+  345. rocky_beach
+  346. rocky_ground
+  347. rocky_landscape
+  348. rocky_shore
+  349. roof
+  350. roof_equipment
+  351. roof_solar_panel
+  352. roof_truss
+  353. rope_bridge
+  354. rugby_field
+  355. ruins
+  356. rural_road
+  357. sailboat
+  358. sales_kiosk
+  359. salt_pool
+  360. sand
+  361. sand_factory
+  362. sand_pile
+  363. sandbag
+  364. sandbar
+  365. satellite_antenna
+  366. school_building
+  367. school_playground
+  368. scoreboard
+  369. scrap_metal
+  370. seawall
+  371. security_room
+  372. sediment
+  373. sedimentation_tank
+  374. service_station
+  375. service_vehicle_road
+  376. shack
+  377. shadow
+  378. ship
+  379. shipbuilding_materials
+  380. shipyard
+  381. shore
+  382. shore_stall
+  383. shot_put_field
+  384. sidewalk
+  385. signal_tower
+  386. skateboard_park
+  387. skyscraper
+  388. slate
+  389. small_jet
+  390. small_peninsula
+  391. solar_panel
+  392. solar_power_plant
+  393. speed_bump
+  394. speedboat
+  395. sports_field
+  396. sports_park
+  397. springboard
+  398. square
+  399. stacked_objects
+  400. stadium_light_pole
+  401. stadium_seats
+  402. stadium_service_vehicle
+  403. stadium_street_lights
+  404. stairs
+  405. statue
+  406. steel_mill
+  407. steel_pipe
+  408. steep_slope
+  409. stele
+  410. stone
+  411. stone_mining_machine
+  412. stone_mountain
+  413. stone_post
+  414. stone_slope
+  415. stone_stall
+  416. storage_tank
+  417. street_lamp
+  418. street_trees
+  419. substation_equipment
+  420. substation_office
+  421. subway_station
+  422. sunshade
+  423. surfboard
+  424. swimming_pool
+  425. swimming_pool_chair
+  426. swimming_pool_lounge
+  427. swing
+  428. table_tennis_court
+  429. takeoff_runway
+  430. tanker_truck
+  431. tennis_court
+  432. tennis_court_lamppost
+  433. tennis_court_net
+  434. tennis_fence
+  435. tent
+  436. tidal_beach
+  437. toll_station
+  438. tombstone
+  439. tower
+  440. tower_crane
+  441. towing_locomotive
+  442. track_and_field_track
+  443. tractor
+  444. traffic_direction_arrow
+  445. traffic_light
+  446. traffic_roundabout
+  447. trailer
+  448. train
+  449. train_carriage
+  450. train_station
+  451. transformer_substation
+  452. transparent_roof
+  453. transport_aircraft
+  454. transport_pipeline
+  455. trash_bin
+  456. tree
+  457. truck
+  458. tunnel_entrance
+  459. turbulent_flow
+  460. umbrella
+  461. underground_storage_tank
+  462. urban_village_building
+  463. van
+  464. vehicles
+  465. vertical_bridge
+  466. villa
+  467. village_building
+  468. volcanic_cone
+  469. volleyball_court
+  470. waiting_shed
+  471. warehouse
+  472. wastewater_treatment_facilities
+  473. wastewater_treatment_plant
+  474. water
+  475. water_horse
+  476. water_park
+  477. water_raft
+  478. water_slide
+  479. water_tank
+  480. water_tower
+  481. water_trough
+  482. waterfall
+  483. watering_truck
+  484. wave
+  485. weeds
+  486. well
+  487. wind_power_machine
+  488. wind_power_plant
+  489. wind_turbine
+  490. wind_turbine_blades
+  491. windsock
+  492. wood
+  493. wood_yard
+  494. wooden_bridge
+  495. wooden_pole
+  496. wooden_stake
+  497. yacht
+  498. yacht_dock
+
+================================================================================
+【表二】30个柯本气候分区的地物实体类别统计
+（仅统计具有 very_high / high / medium 属性的实体）
+================================================================================
+
+【Af】  共 7 个实体
+------------------------------------------------------------
+    1. Open_evergreen_broadleaved_forest  [high]
+    2. coconut_tree  [high]
+    3. duckweed  [medium]
+    4. marshland  [medium]
+    5. palm_tree  [medium]
+    6. reed_bed  [medium]
+    7. wetland  [medium]
+
+【Am】  共 22 个实体
+------------------------------------------------------------
+    1. Open_evergreen_broadleaved_forest  [high]
+    2. coconut_tree  [high]
+    3. canal  [medium]
+    4. dam  [medium]
+    5. drainage_ditch  [medium]
+    6. duckweed  [medium]
+    7. floodway  [medium]
+    8. hydroelectric_power_station  [medium]
+    9. irrigation_ditch  [medium]
+   10. marshland  [medium]
+   11. paddy_field  [medium]
+   12. palm_tree  [medium]
+   13. pump_station  [medium]
+   14. reed_bed  [medium]
+   15. reservoir  [medium]
+   16. reservoir_office  [medium]
+   17. river_dam  [medium]
+   18. river_embankment  [medium]
+   19. spillway_dam  [medium]
+   20. water_diversion_channel  [medium]
+   21. water_supply_station  [medium]
+   22. wetland  [medium]
+
+【Aw】  共 10 个实体
+------------------------------------------------------------
+    1. low_plants  [high]
+    2. low_shrubs  [high]
+    3. shrubland  [high]
+    4. sparse_grassland  [high]
+    5. sparse_vegetation  [high]
+    6. coconut_tree  [medium]
+    7. grassland  [medium]
+    8. grassland_bar  [medium]
+    9. industrial_grassland  [medium]
+   10. palm_tree  [medium]
+
+【BSh】  共 38 个实体
+------------------------------------------------------------
+    1. bare_land  [high]
+    2. bare_soil  [high]
+    3. barren_terrain  [high]
+    4. dry_ground  [high]
+    5. gravel_open_space  [high]
+    6. low_plants  [high]
+    7. low_shrubs  [high]
+    8. sandy_gravel_ground  [high]
+    9. sandy_soil  [high]
+   10. shrubland  [high]
+   11. sparse_grassland  [high]
+   12. sparse_vegetation  [high]
+   13. canal  [medium]
+   14. dam  [medium]
+   15. desert  [medium]
+   16. drainage_ditch  [medium]
+   17. floodway  [medium]
+   18. grassland  [medium]
+   19. grassland_bar  [medium]
+   20. hydroelectric_power_station  [medium]
+   21. industrial_grassland  [medium]
+   22. irrigation_ditch  [medium]
+   23. long_jump_sandpit  [medium]
+   24. pump_station  [medium]
+   25. reservoir  [medium]
+   26. reservoir_office  [medium]
+   27. river_dam  [medium]
+   28. river_embankment  [medium]
+   29. rock_desert  [medium]
+   30. saline-alkali_land  [medium]
+   31. sand_dune  [medium]
+   32. sand_pit  [medium]
+   33. sand_quarry  [medium]
+   34. sand_slope  [medium]
+   35. sandstone  [medium]
+   36. spillway_dam  [medium]
+   37. water_diversion_channel  [medium]
+   38. water_supply_station  [medium]
+
+【BSk】  共 41 个实体
+------------------------------------------------------------
+    1. bare_land  [high]
+    2. bare_soil  [high]
+    3. barren_terrain  [high]
+    4. dry_ground  [high]
+    5. gravel_open_space  [high]
+    6. low_plants  [high]
+    7. low_shrubs  [high]
+    8. saline-alkali_land  [high]
+    9. sandy_gravel_ground  [high]
+   10. sandy_soil  [high]
+   11. shrubland  [high]
+   12. sparse_grassland  [high]
+   13. sparse_vegetation  [high]
+   14. canal  [medium]
+   15. dam  [medium]
+   16. desert  [medium]
+   17. drainage_ditch  [medium]
+   18. floodway  [medium]
+   19. grape_tree  [medium]
+   20. grassland  [medium]
+   21. grassland_bar  [medium]
+   22. hydroelectric_power_station  [medium]
+   23. industrial_grassland  [medium]
+   24. irrigation_ditch  [medium]
+   25. long_jump_sandpit  [medium]
+   26. pump_station  [medium]
+   27. reservoir  [medium]
+   28. reservoir_office  [medium]
+   29. river_dam  [medium]
+   30. river_embankment  [medium]
+   31. rock_desert  [medium]
+   32. sand_dune  [medium]
+   33. sand_pit  [medium]
+   34. sand_quarry  [medium]
+   35. sand_slope  [medium]
+   36. sandstone  [medium]
+   37. spillway_dam  [medium]
+   38. vineyard  [medium]
+   39. water_diversion_channel  [medium]
+   40. water_supply_station  [medium]
+   41. wheat_field  [medium]
+
+【BWh】  共 30 个实体
+------------------------------------------------------------
+    1. desert  [very_high]
+    2. rock_desert  [very_high]
+    3. sand_dune  [very_high]
+    4. bare_land  [high]
+    5. bare_soil  [high]
+    6. barren_terrain  [high]
+    7. dry_ground  [high]
+    8. gravel_open_space  [high]
+    9. sandy_gravel_ground  [high]
+   10. sandy_soil  [high]
+   11. canal  [medium]
+   12. dam  [medium]
+   13. drainage_ditch  [medium]
+   14. floodway  [medium]
+   15. hydroelectric_power_station  [medium]
+   16. irrigation_ditch  [medium]
+   17. long_jump_sandpit  [medium]
+   18. pump_station  [medium]
+   19. reservoir  [medium]
+   20. reservoir_office  [medium]
+   21. river_dam  [medium]
+   22. river_embankment  [medium]
+   23. saline-alkali_land  [medium]
+   24. sand_pit  [medium]
+   25. sand_quarry  [medium]
+   26. sand_slope  [medium]
+   27. sandstone  [medium]
+   28. spillway_dam  [medium]
+   29. water_diversion_channel  [medium]
+   30. water_supply_station  [medium]
+
+【BWk】  共 32 个实体
+------------------------------------------------------------
+    1. desert  [very_high]
+    2. rock_desert  [very_high]
+    3. sand_dune  [very_high]
+    4. bare_land  [high]
+    5. bare_soil  [high]
+    6. barren_terrain  [high]
+    7. dry_ground  [high]
+    8. gravel_open_space  [high]
+    9. saline-alkali_land  [high]
+   10. sandy_gravel_ground  [high]
+   11. sandy_soil  [high]
+   12. canal  [medium]
+   13. dam  [medium]
+   14. drainage_ditch  [medium]
+   15. floodway  [medium]
+   16. grape_tree  [medium]
+   17. hydroelectric_power_station  [medium]
+   18. irrigation_ditch  [medium]
+   19. long_jump_sandpit  [medium]
+   20. pump_station  [medium]
+   21. reservoir  [medium]
+   22. reservoir_office  [medium]
+   23. river_dam  [medium]
+   24. river_embankment  [medium]
+   25. sand_pit  [medium]
+   26. sand_quarry  [medium]
+   27. sand_slope  [medium]
+   28. sandstone  [medium]
+   29. spillway_dam  [medium]
+   30. vineyard  [medium]
+   31. water_diversion_channel  [medium]
+   32. water_supply_station  [medium]
+
+【Cfa】  共 25 个实体
+------------------------------------------------------------
+    1. Closed_deciduous_broadleaved_forest  [high]
+    2. Open_deciduous_broadleaved_forest  [high]
+    3. Open_evergreen_broadleaved_forest  [medium]
+    4. canal  [medium]
+    5. corn_field  [medium]
+    6. dam  [medium]
+    7. drainage_ditch  [medium]
+    8. duckweed  [medium]
+    9. floodway  [medium]
+   10. hydroelectric_power_station  [medium]
+   11. irrigation_ditch  [medium]
+   12. marshland  [medium]
+   13. paddy_field  [medium]
+   14. poplar_forest  [medium]
+   15. pump_station  [medium]
+   16. reed_bed  [medium]
+   17. reservoir  [medium]
+   18. reservoir_office  [medium]
+   19. river_dam  [medium]
+   20. river_embankment  [medium]
+   21. spillway_dam  [medium]
+   22. water_diversion_channel  [medium]
+   23. water_supply_station  [medium]
+   24. wetland  [medium]
+   25. willow_tree  [medium]
+
+【Cfb】  共 7 个实体
+------------------------------------------------------------
+    1. Closed_deciduous_broadleaved_forest  [high]
+    2. Open_deciduous_broadleaved_forest  [high]
+    3. duckweed  [medium]
+    4. marshland  [medium]
+    5. moss  [medium]
+    6. reed_bed  [medium]
+    7. wetland  [medium]
+
+【Cfc】  共 9 个实体
+------------------------------------------------------------
+    1. moss  [high]
+    2. Closed_evergreen_needle-leaved_forest  [medium]
+    3. Open_evergreen_needle-leaved_forest  [medium]
+    4. low_plants  [medium]
+    5. low_shrubs  [medium]
+    6. shrubland  [medium]
+    7. snowfield  [medium]
+    8. sparse_grassland  [medium]
+    9. sparse_vegetation  [medium]
+
+【Csa】  共 22 个实体
+------------------------------------------------------------
+    1. olive_grove  [high]
+    2. canal  [medium]
+    3. dam  [medium]
+    4. drainage_ditch  [medium]
+    5. floodway  [medium]
+    6. grape_tree  [medium]
+    7. hydroelectric_power_station  [medium]
+    8. irrigation_ditch  [medium]
+    9. low_plants  [medium]
+   10. low_shrubs  [medium]
+   11. pump_station  [medium]
+   12. reservoir  [medium]
+   13. reservoir_office  [medium]
+   14. river_dam  [medium]
+   15. river_embankment  [medium]
+   16. shrubland  [medium]
+   17. sparse_grassland  [medium]
+   18. sparse_vegetation  [medium]
+   19. spillway_dam  [medium]
+   20. vineyard  [medium]
+   21. water_diversion_channel  [medium]
+   22. water_supply_station  [medium]
+
+【Csb】  共 8 个实体
+------------------------------------------------------------
+    1. olive_grove  [high]
+    2. grape_tree  [medium]
+    3. low_plants  [medium]
+    4. low_shrubs  [medium]
+    5. shrubland  [medium]
+    6. sparse_grassland  [medium]
+    7. sparse_vegetation  [medium]
+    8. vineyard  [medium]
+
+【Csc】  共 0 个实体
+------------------------------------------------------------
+
+【Cwa】  共 22 个实体
+------------------------------------------------------------
+    1. Closed_deciduous_broadleaved_forest  [medium]
+    2. Open_deciduous_broadleaved_forest  [medium]
+    3. Open_evergreen_broadleaved_forest  [medium]
+    4. canal  [medium]
+    5. dam  [medium]
+    6. drainage_ditch  [medium]
+    7. duckweed  [medium]
+    8. floodway  [medium]
+    9. hydroelectric_power_station  [medium]
+   10. irrigation_ditch  [medium]
+   11. marshland  [medium]
+   12. paddy_field  [medium]
+   13. pump_station  [medium]
+   14. reed_bed  [medium]
+   15. reservoir  [medium]
+   16. reservoir_office  [medium]
+   17. river_dam  [medium]
+   18. river_embankment  [medium]
+   19. spillway_dam  [medium]
+   20. water_diversion_channel  [medium]
+   21. water_supply_station  [medium]
+   22. wetland  [medium]
+
+【Cwb】  共 2 个实体
+------------------------------------------------------------
+    1. Closed_evergreen_needle-leaved_forest  [medium]
+    2. Open_evergreen_needle-leaved_forest  [medium]
+
+【Cwc】  共 2 个实体
+------------------------------------------------------------
+    1. moss  [medium]
+    2. snowfield  [medium]
+
+【Dfa】  共 24 个实体
+------------------------------------------------------------
+    1. Closed_deciduous_broadleaved_forest  [high]
+    2. Open_deciduous_broadleaved_forest  [high]
+    3. canal  [medium]
+    4. corn_field  [medium]
+    5. dam  [medium]
+    6. drainage_ditch  [medium]
+    7. duckweed  [medium]
+    8. floodway  [medium]
+    9. hydroelectric_power_station  [medium]
+   10. irrigation_ditch  [medium]
+   11. marshland  [medium]
+   12. poplar_forest  [medium]
+   13. pump_station  [medium]
+   14. reed_bed  [medium]
+   15. reservoir  [medium]
+   16. reservoir_office  [medium]
+   17. river_dam  [medium]
+   18. river_embankment  [medium]
+   19. spillway_dam  [medium]
+   20. water_diversion_channel  [medium]
+   21. water_supply_station  [medium]
+   22. wetland  [medium]
+   23. wheat_field  [medium]
+   24. willow_tree  [medium]
+
+【Dfb】  共 10 个实体
+------------------------------------------------------------
+    1. Closed_deciduous_broadleaved_forest  [high]
+    2. Closed_evergreen_needle-leaved_forest  [high]
+    3. Open_deciduous_broadleaved_forest  [high]
+    4. Open_evergreen_needle-leaved_forest  [high]
+    5. duckweed  [medium]
+    6. marshland  [medium]
+    7. pine_forest  [medium]
+    8. reed_bed  [medium]
+    9. wetland  [medium]
+   10. wheat_field  [medium]
+
+【Dfc】  共 19 个实体
+------------------------------------------------------------
+    1. Closed_deciduous_needle-leaved_forest  [high]
+    2. Closed_evergreen_needle-leaved_forest  [high]
+    3. Open_deciduous_needle-leaved_forest  [high]
+    4. Open_evergreen_needle-leaved_forest  [high]
+    5. frozen_soil  [high]
+    6. moss  [high]
+    7. snowfield  [high]
+    8. glacier  [medium]
+    9. glacier_stream  [medium]
+   10. glacier_tongue  [medium]
+   11. ice_ridge  [medium]
+   12. low_plants  [medium]
+   13. low_shrubs  [medium]
+   14. pine_forest  [medium]
+   15. sea_ice  [medium]
+   16. shrubland  [medium]
+   17. sparse_grassland  [medium]
+   18. sparse_vegetation  [medium]
+   19. tundra  [medium]
+
+【Dfd】  共 11 个实体
+------------------------------------------------------------
+    1. Closed_deciduous_needle-leaved_forest  [high]
+    2. Open_deciduous_needle-leaved_forest  [high]
+    3. frozen_soil  [high]
+    4. moss  [high]
+    5. snowfield  [high]
+    6. glacier  [medium]
+    7. glacier_stream  [medium]
+    8. glacier_tongue  [medium]
+    9. ice_ridge  [medium]
+   10. sea_ice  [medium]
+   11. tundra  [medium]
+
+【Dsa】  共 0 个实体
+------------------------------------------------------------
+
+【Dsb】  共 1 个实体
+------------------------------------------------------------
+    1. snowfield  [medium]
+
+【Dsc】  共 6 个实体
+------------------------------------------------------------
+    1. Closed_evergreen_needle-leaved_forest  [high]
+    2. Open_evergreen_needle-leaved_forest  [high]
+    3. Closed_deciduous_needle-leaved_forest  [medium]
+    4. Open_deciduous_needle-leaved_forest  [medium]
+    5. frozen_soil  [medium]
+    6. snowfield  [medium]
+
+【Dsd】  共 4 个实体
+------------------------------------------------------------
+    1. Closed_deciduous_needle-leaved_forest  [medium]
+    2. Open_deciduous_needle-leaved_forest  [medium]
+    3. frozen_soil  [medium]
+    4. snowfield  [medium]
+
+【Dwa】  共 20 个实体
+------------------------------------------------------------
+    1. Closed_deciduous_broadleaved_forest  [medium]
+    2. Open_deciduous_broadleaved_forest  [medium]
+    3. canal  [medium]
+    4. corn_field  [medium]
+    5. dam  [medium]
+    6. drainage_ditch  [medium]
+    7. floodway  [medium]
+    8. hydroelectric_power_station  [medium]
+    9. irrigation_ditch  [medium]
+   10. poplar_forest  [medium]
+   11. pump_station  [medium]
+   12. reservoir  [medium]
+   13. reservoir_office  [medium]
+   14. river_dam  [medium]
+   15. river_embankment  [medium]
+   16. spillway_dam  [medium]
+   17. water_diversion_channel  [medium]
+   18. water_supply_station  [medium]
+   19. wheat_field  [medium]
+   20. willow_tree  [medium]
+
+【Dwb】  共 3 个实体
+------------------------------------------------------------
+    1. Closed_evergreen_needle-leaved_forest  [medium]
+    2. Open_evergreen_needle-leaved_forest  [medium]
+    3. pine_forest  [medium]
+
+【Dwc】  共 13 个实体
+------------------------------------------------------------
+    1. Closed_deciduous_needle-leaved_forest  [high]
+    2. Closed_evergreen_needle-leaved_forest  [high]
+    3. Open_deciduous_needle-leaved_forest  [high]
+    4. Open_evergreen_needle-leaved_forest  [high]
+    5. frozen_soil  [high]
+    6. snowfield  [high]
+    7. glacier  [medium]
+    8. glacier_stream  [medium]
+    9. glacier_tongue  [medium]
+   10. ice_ridge  [medium]
+   11. moss  [medium]
+   12. pine_forest  [medium]
+   13. sea_ice  [medium]
+
+【Dwd】  共 11 个实体
+------------------------------------------------------------
+    1. Closed_deciduous_needle-leaved_forest  [high]
+    2. Open_deciduous_needle-leaved_forest  [high]
+    3. frozen_soil  [high]
+    4. snowfield  [high]
+    5. glacier  [medium]
+    6. glacier_stream  [medium]
+    7. glacier_tongue  [medium]
+    8. ice_ridge  [medium]
+    9. moss  [medium]
+   10. sea_ice  [medium]
+   11. tundra  [medium]
+
+【EF】  共 7 个实体
+------------------------------------------------------------
+    1. glacier  [very_high]
+    2. glacier_stream  [very_high]
+    3. glacier_tongue  [very_high]
+    4. ice_ridge  [very_high]
+    5. sea_ice  [very_high]
+    6. snowfield  [high]
+    7. frozen_soil  [medium]
+
+【ET】  共 14 个实体
+------------------------------------------------------------
+    1. tundra  [very_high]
+    2. frozen_soil  [high]
+    3. moss  [high]
+    4. snowfield  [high]
+    5. glacier  [medium]
+    6. glacier_stream  [medium]
+    7. glacier_tongue  [medium]
+    8. ice_ridge  [medium]
+    9. low_plants  [medium]
+   10. low_shrubs  [medium]
+   11. sea_ice  [medium]
+   12. shrubland  [medium]
+   13. sparse_grassland  [medium]
+   14. sparse_vegetation  [medium]
+
+================================================================================
+【汇总】各气候分区实体数量一览
+================================================================================
+  代码          实体数量
+  --------------------
+  Af             7
+  Am            22
+  Aw            10
+  BSh           38
+  BSk           41
+  BWh           30
+  BWk           32
+  Cfa           25
+  Cfb            7
+  Cfc            9
+  Csa           22
+  Csb            8
+  Csc            0
+  Cwa           22
+  Cwb            2
+  Cwc            2
+  Dfa           24
+  Dfb           10
+  Dfc           19
+  Dfd           11
+  Dsa            0
+  Dsb            1
+  Dsc            6
+  Dsd            4
+  Dwa           20
+  Dwb            3
+  Dwc           13
+  Dwd           11
+  EF             7
+  ET            14
+
+  通用类别（non_diagnostic only）：498 个

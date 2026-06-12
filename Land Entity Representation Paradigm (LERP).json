@@ -1,0 +1,2374 @@
+[
+  {
+    "name": "sparse_vegetation",
+    "type": "stuff"
+  },
+  {
+    "name": "protection_belt",
+    "type": "stuff"
+  },
+  {
+    "name": "pine_forest",
+    "type": "stuff"
+  },
+  {
+    "name": "poplar_forest",
+    "type": "stuff"
+  },
+  {
+    "name": "arbor",
+    "type": "stuff"
+  },
+  {
+    "name": "oak_planting_area",
+    "type": "stuff"
+  },
+  {
+    "name": "willow_tree",
+    "type": "thing"
+  },
+  {
+    "name": "coconut_tree",
+    "type": "thing"
+  },
+  {
+    "name": "palm_tree",
+    "type": "thing"
+  },
+  {
+    "name": "forest_farm",
+    "type": "stuff"
+  },
+  {
+    "name": "mountain_forest",
+    "type": "stuff"
+  },
+  {
+    "name": "shrubland",
+    "type": "stuff"
+  },
+  {
+    "name": "low_shrubs",
+    "type": "stuff"
+  },
+  {
+    "name": "low_plants",
+    "type": "stuff"
+  },
+  {
+    "name": "marshland",
+    "type": "stuff"
+  },
+  {
+    "name": "orchard_trees",
+    "type": "thing"
+  },
+  {
+    "name": "olive_grove",
+    "type": "stuff"
+  },
+  {
+    "name": "vineyard",
+    "type": "stuff"
+  },
+  {
+    "name": "grape_tree",
+    "type": "stuff"
+  },
+  {
+    "name": "plantation",
+    "type": "stuff"
+  },
+  {
+    "name": "dead_tree",
+    "type": "thing"
+  },
+  {
+    "name": "tree",
+    "type": "thing"
+  },
+  {
+    "name": "aquatic_plants",
+    "type": "stuff"
+  },
+  {
+    "name": "duckweed",
+    "type": "stuff"
+  },
+  {
+    "name": "Open_evergreen_broadleaved_forest",
+    "type": "stuff"
+  },
+  {
+    "name": "Open_deciduous_broadleaved_forest",
+    "type": "stuff"
+  },
+  {
+    "name": "Closed_deciduous_broadleaved_forest",
+    "type": "stuff"
+  },
+  {
+    "name": "Open_evergreen_needle-leaved_forest",
+    "type": "stuff"
+  },
+  {
+    "name": "Closed_evergreen_needle-leaved_forest",
+    "type": "stuff"
+  },
+  {
+    "name": "Open_deciduous_needle-leaved_forest",
+    "type": "stuff"
+  },
+  {
+    "name": "Closed_deciduous_needle-leaved_forest",
+    "type": "stuff"
+  },
+  {
+    "name": "green_belt",
+    "type": "stuff"
+  },
+  {
+    "name": "street_trees",
+    "type": "thing"
+  },
+  {
+    "name": "landscape_plants",
+    "type": "stuff"
+  },
+  {
+    "name": "greening_facilities",
+    "type": "thing"
+  },
+  {
+    "name": "potted_plant",
+    "type": "thing"
+  },
+  {
+    "name": "nursery",
+    "type": "stuff"
+  },
+  {
+    "name": "flower_bed",
+    "type": "thing"
+  },
+  {
+    "name": "hedge",
+    "type": "thing"
+  },
+  {
+    "name": "grassland",
+    "type": "stuff"
+  },
+  {
+    "name": "industrial_grassland",
+    "type": "stuff"
+  },
+  {
+    "name": "sparse_grassland",
+    "type": "stuff"
+  },
+  {
+    "name": "weeds",
+    "type": "stuff"
+  },
+  {
+    "name": "artificial_lawn",
+    "type": "stuff"
+  },
+  {
+    "name": "grassland_bar",
+    "type": "stuff"
+  },
+  {
+    "name": "haystack",
+    "type": "thing"
+  },
+  {
+    "name": "ranch",
+    "type": "stuff"
+  },
+  {
+    "name": "flowers",
+    "type": "stuff"
+  },
+  {
+    "name": "moss",
+    "type": "stuff"
+  },
+  {
+    "name": "tundra",
+    "type": "stuff"
+  },
+  {
+    "name": "reed_bed",
+    "type": "stuff"
+  },
+  {
+    "name": "community_garden",
+    "type": "stuff"
+  },
+  {
+    "name": "garden",
+    "type": "stuff"
+  },
+  {
+    "name": "patio",
+    "type": "thing"
+  },
+  {
+    "name": "wood",
+    "type": "stuff"
+  },
+  {
+    "name": "wood_yard",
+    "type": "thing"
+  },
+  {
+    "name": "wooden_stake",
+    "type": "thing"
+  },
+  {
+    "name": "bamboo_pole",
+    "type": "thing"
+  },
+  {
+    "name": "island",
+    "type": "thing"
+  },
+  {
+    "name": "lake_island",
+    "type": "thing"
+  },
+  {
+    "name": "river_island",
+    "type": "thing"
+  },
+  {
+    "name": "lake_center_stone",
+    "type": "thing"
+  },
+  {
+    "name": "small_peninsula",
+    "type": "stuff"
+  },
+  {
+    "name": "dry_ground",
+    "type": "stuff"
+  },
+  {
+    "name": "saline-alkali_land",
+    "type": "stuff"
+  },
+  {
+    "name": "barren_terrain",
+    "type": "stuff"
+  },
+  {
+    "name": "bare_land",
+    "type": "stuff"
+  },
+  {
+    "name": "bare_soil",
+    "type": "stuff"
+  },
+  {
+    "name": "rocky_landscape",
+    "type": "stuff"
+  },
+  {
+    "name": "stone_forest",
+    "type": "stuff"
+  },
+  {
+    "name": "rock_desert",
+    "type": "stuff"
+  },
+  {
+    "name": "stone_mountain",
+    "type": "stuff"
+  },
+  {
+    "name": "rocky_ground",
+    "type": "stuff"
+  },
+  {
+    "name": "gravel_open_space",
+    "type": "stuff"
+  },
+  {
+    "name": "stone_post",
+    "type": "thing"
+  },
+  {
+    "name": "granite_ground",
+    "type": "stuff"
+  },
+  {
+    "name": "limestone",
+    "type": "stuff"
+  },
+  {
+    "name": "slate",
+    "type": "stuff"
+  },
+  {
+    "name": "stone",
+    "type": "stuff"
+  },
+  {
+    "name": "rock pile",
+    "type": "thing"
+  },
+  {
+    "name": "stone_slope",
+    "type": "stuff"
+  },
+  {
+    "name": "red_rock_area",
+    "type": "stuff"
+  },
+  {
+    "name": "sandstone",
+    "type": "stuff"
+  },
+  {
+    "name": "sandy_gravel_ground",
+    "type": "stuff"
+  },
+  {
+    "name": "riprap",
+    "type": "stuff"
+  },
+  {
+    "name": "sand",
+    "type": "stuff"
+  },
+  {
+    "name": "desert",
+    "type": "stuff"
+  },
+  {
+    "name": "sandbar",
+    "type": "thing"
+  },
+  {
+    "name": "beach",
+    "type": "stuff"
+  },
+  {
+    "name": "tidal_beach",
+    "type": "stuff"
+  },
+  {
+    "name": "rocky_beach",
+    "type": "stuff"
+  },
+  {
+    "name": "rocky_shore",
+    "type": "stuff"
+  },
+  {
+    "name": "reef",
+    "type": "ambiguous"
+  },
+  {
+    "name": "sand_dune",
+    "type": "stuff"
+  },
+  {
+    "name": "mound",
+    "type": "thing"
+  },
+  {
+    "name": "sand_pile",
+    "type": "thing"
+  },
+  {
+    "name": "sand_quarry",
+    "type": "stuff"
+  },
+  {
+    "name": "sand_pit",
+    "type": "stuff"
+  },
+  {
+    "name": "sand_slope",
+    "type": "stuff"
+  },
+  {
+    "name": "sandy_soil",
+    "type": "stuff"
+  },
+  {
+    "name": "mountain_peak",
+    "type": "thing"
+  },
+  {
+    "name": "volcanic_cone",
+    "type": "thing"
+  },
+  {
+    "name": "lava_ground",
+    "type": "stuff"
+  },
+  {
+    "name": "mountain",
+    "type": "stuff"
+  },
+  {
+    "name": "canyon",
+    "type": "stuff"
+  },
+  {
+    "name": "mountain_gully",
+    "type": "stuff"
+  },
+  {
+    "name": "earth_slope",
+    "type": "stuff"
+  },
+  {
+    "name": "plain",
+    "type": "stuff"
+  },
+  {
+    "name": "hills",
+    "type": "stuff"
+  },
+  {
+    "name": "hillside",
+    "type": "stuff"
+  },
+  {
+    "name": "pit",
+    "type": "stuff"
+  },
+  {
+    "name": "river_embankment",
+    "type": "thing"
+  },
+  {
+    "name": "breakwater",
+    "type": "thing"
+  },
+  {
+    "name": "field_ridge",
+    "type": "thing"
+  },
+  {
+    "name": "plow_furrow",
+    "type": "stuff"
+  },
+  {
+    "name": "intertidal_zone",
+    "type": "stuff"
+  },
+  {
+    "name": "shore",
+    "type": "stuff"
+  },
+  {
+    "name": "coast",
+    "type": "stuff"
+  },
+  {
+    "name": "riverside",
+    "type": "stuff"
+  },
+  {
+    "name": "dried_riverbed",
+    "type": "stuff"
+  },
+  {
+    "name": "river_beach",
+    "type": "stuff"
+  },
+  {
+    "name": "lakeside",
+    "type": "stuff"
+  },
+  {
+    "name": "muddy_ground",
+    "type": "stuff"
+  },
+  {
+    "name": "mud_and_sand_feather_flow",
+    "type": "stuff"
+  },
+  {
+    "name": "frozen_soil",
+    "type": "stuff"
+  },
+  {
+    "name": "open-pit_mining_area",
+    "type": "thing"
+  },
+  {
+    "name": "quarry",
+    "type": "thing"
+  },
+  {
+    "name": "coal_yard",
+    "type": "thing"
+  },
+  {
+    "name": "excavation_site",
+    "type": "stuff"
+  },
+  {
+    "name": "oil_extraction_site",
+    "type": "stuff"
+  },
+  {
+    "name": "oil_field",
+    "type": "stuff"
+  },
+  {
+    "name": "mine_pit",
+    "type": "stuff"
+  },
+  {
+    "name": "pile_of_rubble",
+    "type": "thing"
+  },
+  {
+    "name": "irrigation_ditch",
+    "type": "stuff"
+  },
+  {
+    "name": "water_diversion_channel",
+    "type": "stuff"
+  },
+  {
+    "name": "reservoir",
+    "type": "thing"
+  },
+  {
+    "name": "floodway",
+    "type": "stuff"
+  },
+  {
+    "name": "moat",
+    "type": "thing"
+  },
+  {
+    "name": "drainage_ditch",
+    "type": "stuff"
+  },
+  {
+    "name": "ditch",
+    "type": "stuff"
+  },
+  {
+    "name": "water",
+    "type": "stuff"
+  },
+  {
+    "name": "lake",
+    "type": "stuff"
+  },
+  {
+    "name": "river",
+    "type": "stuff"
+  },
+  {
+    "name": "bay",
+    "type": "stuff"
+  },
+  {
+    "name": "canal",
+    "type": "stuff"
+  },
+  {
+    "name": "waterfall",
+    "type": "stuff"
+  },
+  {
+    "name": "turbulent_flow",
+    "type": "stuff"
+  },
+  {
+    "name": "wetland",
+    "type": "stuff"
+  },
+  {
+    "name": "puddle",
+    "type": "stuff"
+  },
+  {
+    "name": "salt_pool",
+    "type": "stuff"
+  },
+  {
+    "name": "ocean",
+    "type": "stuff"
+  },
+  {
+    "name": "wave",
+    "type": "stuff"
+  },
+  {
+    "name": "swimming_pool",
+    "type": "thing"
+  },
+  {
+    "name": "fountain_pool",
+    "type": "thing"
+  },
+  {
+    "name": "glacier",
+    "type": "stuff"
+  },
+  {
+    "name": "glacier_stream",
+    "type": "stuff"
+  },
+  {
+    "name": "glacier_tongue",
+    "type": "thing"
+  },
+  {
+    "name": "sea_ice",
+    "type": "stuff"
+  },
+  {
+    "name": "ice_ridge",
+    "type": "stuff"
+  },
+  {
+    "name": "snowfield",
+    "type": "stuff"
+  },
+  {
+    "name": "pond",
+    "type": "thing"
+  },
+  {
+    "name": "pond_sugar",
+    "type": "stuff"
+  },
+  {
+    "name": "fish_pond",
+    "type": "thing"
+  },
+  {
+    "name": "lotus_pond",
+    "type": "thing"
+  },
+  {
+    "name": "aquaculture_pond",
+    "type": "thing"
+  },
+  {
+    "name": "wastewater_pond",
+    "type": "thing"
+  },
+  {
+    "name": "purification_pool",
+    "type": "thing"
+  },
+  {
+    "name": "sediment",
+    "type": "stuff"
+  },
+  {
+    "name": "farmhouse",
+    "type": "thing"
+  },
+  {
+    "name": "homestead",
+    "type": "thing"
+  },
+  {
+    "name": "villa",
+    "type": "thing"
+  },
+  {
+    "name": "residential_building",
+    "type": "thing"
+  },
+  {
+    "name": "village_building",
+    "type": "thing"
+  },
+  {
+    "name": "urban_village_building",
+    "type": "thing"
+  },
+  {
+    "name": "apartment",
+    "type": "thing"
+  },
+  {
+    "name": "building",
+    "type": "thing"
+  },
+  {
+    "name": "office_building",
+    "type": "thing"
+  },
+  {
+    "name": "mall",
+    "type": "thing"
+  },
+  {
+    "name": "commercial_building",
+    "type": "thing"
+  },
+  {
+    "name": "government_building",
+    "type": "thing"
+  },
+  {
+    "name": "school_building",
+    "type": "thing"
+  },
+  {
+    "name": "community_center",
+    "type": "thing"
+  },
+  {
+    "name": "hospital",
+    "type": "thing"
+  },
+  {
+    "name": "resort",
+    "type": "thing"
+  },
+  {
+    "name": "hotel",
+    "type": "thing"
+  },
+  {
+    "name": "gymnasium",
+    "type": "thing"
+  },
+  {
+    "name": "abandoned_stadium",
+    "type": "thing"
+  },
+  {
+    "name": "Circular_theater",
+    "type": "thing"
+  },
+  {
+    "name": "industrial_building",
+    "type": "thing"
+  },
+  {
+    "name": "industrial_area",
+    "type": "stuff"
+  },
+  {
+    "name": "industrial_building_materials",
+    "type": "thing"
+  },
+  {
+    "name": "processing_plant",
+    "type": "thing"
+  },
+  {
+    "name": "abandoned_industrial_area",
+    "type": "stuff"
+  },
+  {
+    "name": "natural_gas_factory",
+    "type": "thing"
+  },
+  {
+    "name": "chemical_factory",
+    "type": "thing"
+  },
+  {
+    "name": "oil_refinery_factory",
+    "type": "thing"
+  },
+  {
+    "name": "steel_mill",
+    "type": "thing"
+  },
+  {
+    "name": "sand_factory",
+    "type": "thing"
+  },
+  {
+    "name": "concrete_factory",
+    "type": "thing"
+  },
+  {
+    "name": "wind_power_plant",
+    "type": "thing"
+  },
+  {
+    "name": "solar_power_plant",
+    "type": "thing"
+  },
+  {
+    "name": "power_station",
+    "type": "thing"
+  },
+  {
+    "name": "transformer_substation",
+    "type": "thing"
+  },
+  {
+    "name": "substation_office",
+    "type": "thing"
+  },
+  {
+    "name": "nuclear_power_station",
+    "type": "thing"
+  },
+  {
+    "name": "hydroelectric_power_station",
+    "type": "thing"
+  },
+  {
+    "name": "reservoir_office",
+    "type": "thing"
+  },
+  {
+    "name": "bunker",
+    "type": "thing"
+  },
+  {
+    "name": "military_base",
+    "type": "thing"
+  },
+  {
+    "name": "defensive_works",
+    "type": "thing"
+  },
+  {
+    "name": "prison",
+    "type": "thing"
+  },
+  {
+    "name": "floating_structure",
+    "type": "thing"
+  },
+  {
+    "name": "boathouse",
+    "type": "thing"
+  },
+  {
+    "name": "fishing_platform",
+    "type": "thing"
+  },
+  {
+    "name": "tower",
+    "type": "thing"
+  },
+  {
+    "name": "lighting_tower",
+    "type": "thing"
+  },
+  {
+    "name": "signal_tower",
+    "type": "thing"
+  },
+  {
+    "name": "base_station",
+    "type": "thing"
+  },
+  {
+    "name": "sunshade",
+    "type": "thing"
+  },
+  {
+    "name": "rain_shelter",
+    "type": "thing"
+  },
+  {
+    "name": "metal_shed",
+    "type": "thing"
+  },
+  {
+    "name": "plastic_shed",
+    "type": "thing"
+  },
+  {
+    "name": "cooling_shed",
+    "type": "thing"
+  },
+  {
+    "name": "waiting_shed",
+    "type": "thing"
+  },
+  {
+    "name": "ancient_building",
+    "type": "thing"
+  },
+  {
+    "name": "ruins",
+    "type": "thing"
+  },
+  {
+    "name": "church",
+    "type": "thing"
+  },
+  {
+    "name": "mosque",
+    "type": "thing"
+  },
+  {
+    "name": "shipyard",
+    "type": "thing"
+  },
+  {
+    "name": "offshore_oil_drilling_platform",
+    "type": "thing"
+  },
+  {
+    "name": "oil_drilling_rig",
+    "type": "thing"
+  },
+  {
+    "name": "bus_stop",
+    "type": "thing"
+  },
+  {
+    "name": "train_station",
+    "type": "thing"
+  },
+  {
+    "name": "subway_station",
+    "type": "thing"
+  },
+  {
+    "name": "service_station",
+    "type": "thing"
+  },
+  {
+    "name": "gas_station",
+    "type": "thing"
+  },
+  {
+    "name": "railway_platform",
+    "type": "thing"
+  },
+  {
+    "name": "covered_bridge",
+    "type": "thing"
+  },
+  {
+    "name": "high-speed_rail_station_canopy",
+    "type": "thing"
+  },
+  {
+    "name": "toll_station",
+    "type": "thing"
+  },
+  {
+    "name": "airport_terminal",
+    "type": "thing"
+  },
+  {
+    "name": "boarding_building",
+    "type": "thing"
+  },
+  {
+    "name": "aircraft_hangar",
+    "type": "thing"
+  },
+  {
+    "name": "dam",
+    "type": "thing"
+  },
+  {
+    "name": "spillway_dam",
+    "type": "thing"
+  },
+  {
+    "name": "river_dam",
+    "type": "thing"
+  },
+  {
+    "name": "water_supply_station",
+    "type": "thing"
+  },
+  {
+    "name": "pump_station",
+    "type": "thing"
+  },
+  {
+    "name": "water_park",
+    "type": "thing"
+  },
+  {
+    "name": "skyscraper",
+    "type": "thing"
+  },
+  {
+    "name": "laboratory",
+    "type": "thing"
+  },
+  {
+    "name": "observatory",
+    "type": "thing"
+  },
+  {
+    "name": "cabin",
+    "type": "thing"
+  },
+  {
+    "name": "elevated_building",
+    "type": "thing"
+  },
+  {
+    "name": "central_control_building",
+    "type": "thing"
+  },
+  {
+    "name": "command_post_building",
+    "type": "thing"
+  },
+  {
+    "name": "security_room",
+    "type": "thing"
+  },
+  {
+    "name": "protective_wall",
+    "type": "thing"
+  },
+  {
+    "name": "enclosure_wall",
+    "type": "thing"
+  },
+  {
+    "name": "cooling_tower",
+    "type": "thing"
+  },
+  {
+    "name": "shore_stall",
+    "type": "thing"
+  },
+  {
+    "name": "stone_stall",
+    "type": "thing"
+  },
+  {
+    "name": "manor",
+    "type": "thing"
+  },
+  {
+    "name": "playground",
+    "type": "thing"
+  },
+  {
+    "name": "garage",
+    "type": "thing"
+  },
+  {
+    "name": "sales_kiosk",
+    "type": "thing"
+  },
+  {
+    "name": "mobile_house",
+    "type": "thing"
+  },
+  {
+    "name": "shack",
+    "type": "thing"
+  },
+  {
+    "name": "color_steel_shed",
+    "type": "thing"
+  },
+  {
+    "name": "Red_Cross_building",
+    "type": "thing"
+  },
+  {
+    "name": "junkyard",
+    "type": "thing"
+  },
+  {
+    "name": "cement_floor",
+    "type": "stuff"
+  },
+  {
+    "name": "pedestrian_path",
+    "type": "stuff"
+  },
+  {
+    "name": "pedestrian_overpass",
+    "type": "thing"
+  },
+  {
+    "name": "pedestrian_ladder_road",
+    "type": "thing"
+  },
+  {
+    "name": "non-motorized_lane",
+    "type": "stuff"
+  },
+  {
+    "name": "sidewalk",
+    "type": "stuff"
+  },
+  {
+    "name": "ramp",
+    "type": "thing"
+  },
+  {
+    "name": "steep_slope",
+    "type": "stuff"
+  },
+  {
+    "name": "alley",
+    "type": "stuff"
+  },
+  {
+    "name": "paving_path",
+    "type": "stuff"
+  },
+  {
+    "name": "forest",
+    "type": "stuff"
+  },
+  {
+    "name": "plank_road",
+    "type": "thing"
+  },
+  {
+    "name": "roadside",
+    "type": "stuff"
+  },
+  {
+    "name": "road",
+    "type": "stuff"
+  },
+  {
+    "name": "Construction_road",
+    "type": "stuff"
+  },
+  {
+    "name": "gravel_road",
+    "type": "stuff"
+  },
+  {
+    "name": "service_vehicle_road",
+    "type": "stuff"
+  },
+  {
+    "name": "golf_cart_path",
+    "type": "stuff"
+  },
+  {
+    "name": "residential_road",
+    "type": "stuff"
+  },
+  {
+    "name": "mountain_road",
+    "type": "stuff"
+  },
+  {
+    "name": "dirt_path",
+    "type": "stuff"
+  },
+  {
+    "name": "goose_egg_path",
+    "type": "stuff"
+  },
+  {
+    "name": "parking_lot",
+    "type": "thing"
+  },
+  {
+    "name": "parking_shed",
+    "type": "thing"
+  },
+  {
+    "name": "traffic_roundabout",
+    "type": "thing"
+  },
+  {
+    "name": "overpass_bridge",
+    "type": "thing"
+  },
+  {
+    "name": "highway_overpass",
+    "type": "thing"
+  },
+  {
+    "name": "highway",
+    "type": "stuff"
+  },
+  {
+    "name": "low-speed_highway",
+    "type": "stuff"
+  },
+  {
+    "name": "bridge",
+    "type": "thing"
+  },
+  {
+    "name": "broken_bridge",
+    "type": "thing"
+  },
+  {
+    "name": "vertical_bridge",
+    "type": "thing"
+  },
+  {
+    "name": "rope_bridge",
+    "type": "thing"
+  },
+  {
+    "name": "wooden_bridge",
+    "type": "thing"
+  },
+  {
+    "name": "arch_bridge",
+    "type": "thing"
+  },
+  {
+    "name": "railway_track",
+    "type": "stuff"
+  },
+  {
+    "name": "railway",
+    "type": "stuff"
+  },
+  {
+    "name": "abandoned_track",
+    "type": "stuff"
+  },
+  {
+    "name": "light_rail",
+    "type": "thing"
+  },
+  {
+    "name": "airport",
+    "type": "thing"
+  },
+  {
+    "name": "abandoned_airport",
+    "type": "thing"
+  },
+  {
+    "name": "air_force_base",
+    "type": "thing"
+  },
+  {
+    "name": "helicopter_pad",
+    "type": "thing"
+  },
+  {
+    "name": "aircraft_landing_area",
+    "type": "stuff"
+  },
+  {
+    "name": "aircraft_parking_area",
+    "type": "stuff"
+  },
+  {
+    "name": "takeoff_runway",
+    "type": "stuff"
+  },
+  {
+    "name": "airport_service_road",
+    "type": "stuff"
+  },
+  {
+    "name": "forest_path",
+    "type": "stuff"
+  },
+  {
+    "name": "forest_clearing",
+    "type": "stuff"
+  },
+  {
+    "name": "swimming_pool_lounge",
+    "type": "thing"
+  },
+  {
+    "name": "square",
+    "type": "thing"
+  },
+  {
+    "name": "sports_park",
+    "type": "thing"
+  },
+  {
+    "name": "business_park",
+    "type": "stuff"
+  },
+  {
+    "name": "park",
+    "type": "stuff"
+  },
+  {
+    "name": "stairs",
+    "type": "thing"
+  },
+  {
+    "name": "construction_frame",
+    "type": "thing"
+  },
+  {
+    "name": "construction_site",
+    "type": "thing"
+  },
+  {
+    "name": "floor_slab",
+    "type": "thing"
+  },
+  {
+    "name": "dock",
+    "type": "thing"
+  },
+  {
+    "name": "yacht_dock",
+    "type": "thing"
+  },
+  {
+    "name": "port",
+    "type": "thing"
+  },
+  {
+    "name": "pier",
+    "type": "thing"
+  },
+  {
+    "name": "seawall",
+    "type": "thing"
+  },
+  {
+    "name": "greenhouse",
+    "type": "thing"
+  },
+  {
+    "name": "fallow_land",
+    "type": "stuff"
+  },
+  {
+    "name": "farmland",
+    "type": "stuff"
+  },
+  {
+    "name": "paddy_field",
+    "type": "stuff"
+  },
+  {
+    "name": "wheat_field",
+    "type": "stuff"
+  },
+  {
+    "name": "rapeseed_field",
+    "type": "stuff"
+  },
+  {
+    "name": "corn_field",
+    "type": "stuff"
+  },
+  {
+    "name": "vegetable_field",
+    "type": "stuff"
+  },
+  {
+    "name": "mulch_film",
+    "type": "stuff"
+  },
+  {
+    "name": "terrace",
+    "type": "stuff"
+  },
+  {
+    "name": "natural_gas_field",
+    "type": "stuff"
+  },
+  {
+    "name": "airplane",
+    "type": "thing"
+  },
+  {
+    "name": "transport_aircraft",
+    "type": "thing"
+  },
+  {
+    "name": "small_jet",
+    "type": "thing"
+  },
+  {
+    "name": "helicopter",
+    "type": "thing"
+  },
+  {
+    "name": "boarding_ladder",
+    "type": "thing"
+  },
+  {
+    "name": "boarding_passage",
+    "type": "thing"
+  },
+  {
+    "name": "aircraft_tug",
+    "type": "thing"
+  },
+  {
+    "name": "airport_service_vehicle",
+    "type": "thing"
+  },
+  {
+    "name": "aircraft_maintenance_equipment",
+    "type": "thing"
+  },
+  {
+    "name": "mining_truck",
+    "type": "thing"
+  },
+  {
+    "name": "truck",
+    "type": "thing"
+  },
+  {
+    "name": "trailer",
+    "type": "thing"
+  },
+  {
+    "name": "office_trailer",
+    "type": "thing"
+  },
+  {
+    "name": "tractor",
+    "type": "thing"
+  },
+  {
+    "name": "compact_car",
+    "type": "thing"
+  },
+  {
+    "name": "business_vehicle",
+    "type": "thing"
+  },
+  {
+    "name": "motorcycle",
+    "type": "thing"
+  },
+  {
+    "name": "bus",
+    "type": "thing"
+  },
+  {
+    "name": "towing_locomotive",
+    "type": "thing"
+  },
+  {
+    "name": "motorhome",
+    "type": "thing"
+  },
+  {
+    "name": "van",
+    "type": "thing"
+  },
+  {
+    "name": "vehicles",
+    "type": "thing"
+  },
+  {
+    "name": "watering_truck",
+    "type": "thing"
+  },
+  {
+    "name": "luggage_cart",
+    "type": "thing"
+  },
+  {
+    "name": "guide_car",
+    "type": "thing"
+  },
+  {
+    "name": "tanker_truck",
+    "type": "thing"
+  },
+  {
+    "name": "engineering_vehicle",
+    "type": "thing"
+  },
+  {
+    "name": "construction_vehicle",
+    "type": "thing"
+  },
+  {
+    "name": "industrial_vehicle",
+    "type": "thing"
+  },
+  {
+    "name": "bridge_vehicle",
+    "type": "thing"
+  },
+  {
+    "name": "golf_cart",
+    "type": "thing"
+  },
+  {
+    "name": "car_box",
+    "type": "thing"
+  },
+  {
+    "name": "cable_car",
+    "type": "thing"
+  },
+  {
+    "name": "cable_rope",
+    "type": "thing"
+  },
+  {
+    "name": "bulldozer",
+    "type": "thing"
+  },
+  {
+    "name": "stadium_service_vehicle",
+    "type": "thing"
+  },
+  {
+    "name": "airport_service_equipment",
+    "type": "thing"
+  },
+  {
+    "name": "paving_equipment",
+    "type": "thing"
+  },
+  {
+    "name": "baseball_field_service_vehicle",
+    "type": "thing"
+  },
+  {
+    "name": "train",
+    "type": "thing"
+  },
+  {
+    "name": "train_carriage",
+    "type": "thing"
+  },
+  {
+    "name": "ship",
+    "type": "thing"
+  },
+  {
+    "name": "ferry",
+    "type": "thing"
+  },
+  {
+    "name": "speedboat",
+    "type": "thing"
+  },
+  {
+    "name": "motorboat",
+    "type": "thing"
+  },
+  {
+    "name": "boat",
+    "type": "thing"
+  },
+  {
+    "name": "sailboat",
+    "type": "thing"
+  },
+  {
+    "name": "barge",
+    "type": "thing"
+  },
+  {
+    "name": "water_raft",
+    "type": "thing"
+  },
+  {
+    "name": "yacht",
+    "type": "thing"
+  },
+  {
+    "name": "aircraft_carrier",
+    "type": "thing"
+  },
+  {
+    "name": "cruise_ship",
+    "type": "thing"
+  },
+  {
+    "name": "cargo_ship",
+    "type": "thing"
+  },
+  {
+    "name": "sports_field",
+    "type": "thing"
+  },
+  {
+    "name": "tennis_court",
+    "type": "thing"
+  },
+  {
+    "name": "tennis_court_net",
+    "type": "thing"
+  },
+  {
+    "name": "tennis_fence",
+    "type": "thing"
+  },
+  {
+    "name": "athlete_rest_area",
+    "type": "thing"
+  },
+  {
+    "name": "basketball_court",
+    "type": "thing"
+  },
+  {
+    "name": "basketball_rack",
+    "type": "thing"
+  },
+  {
+    "name": "volleyball_court",
+    "type": "thing"
+  },
+  {
+    "name": "baseball_field",
+    "type": "thing"
+  },
+  {
+    "name": "batting_area",
+    "type": "thing"
+  },
+  {
+    "name": "pitching_area",
+    "type": "thing"
+  },
+  {
+    "name": "baseball_field_fence",
+    "type": "thing"
+  },
+  {
+    "name": "baseball_field_lounge",
+    "type": "thing"
+  },
+  {
+    "name": "batting_cage",
+    "type": "thing"
+  },
+  {
+    "name": "badminton_court",
+    "type": "thing"
+  },
+  {
+    "name": "badminton_net",
+    "type": "thing"
+  },
+  {
+    "name": "football_field",
+    "type": "thing"
+  },
+  {
+    "name": "golf_course",
+    "type": "thing"
+  },
+  {
+    "name": "golf_fairway",
+    "type": "stuff"
+  },
+  {
+    "name": "golf_course_bunker",
+    "type": "thing"
+  },
+  {
+    "name": "ice_rink",
+    "type": "thing"
+  },
+  {
+    "name": "racecourse",
+    "type": "thing"
+  },
+  {
+    "name": "shot_put_field",
+    "type": "thing"
+  },
+  {
+    "name": "long_jump_field",
+    "type": "thing"
+  },
+  {
+    "name": "long_jump_sandpit",
+    "type": "thing"
+  },
+  {
+    "name": "rugby_field",
+    "type": "thing"
+  },
+  {
+    "name": "skateboard_park",
+    "type": "thing"
+  },
+  {
+    "name": "audience_stand",
+    "type": "thing"
+  },
+  {
+    "name": "podium",
+    "type": "thing"
+  },
+  {
+    "name": "flag-raising_platform",
+    "type": "thing"
+  },
+  {
+    "name": "track_and_field_track",
+    "type": "thing"
+  },
+  {
+    "name": "school_playground",
+    "type": "thing"
+  },
+  {
+    "name": "equestrian_venue",
+    "type": "thing"
+  },
+  {
+    "name": "equestrian_track",
+    "type": "thing"
+  },
+  {
+    "name": "karting_track",
+    "type": "thing"
+  },
+  {
+    "name": "race_track",
+    "type": "thing"
+  },
+  {
+    "name": "long_climbing_field",
+    "type": "thing"
+  },
+  {
+    "name": "table_tennis_court",
+    "type": "thing"
+  },
+  {
+    "name": "traffic_light",
+    "type": "thing"
+  },
+  {
+    "name": "street_lamp",
+    "type": "thing"
+  },
+  {
+    "name": "electronic_capture_pole",
+    "type": "thing"
+  },
+  {
+    "name": "flagpole",
+    "type": "thing"
+  },
+  {
+    "name": "stadium_light_pole",
+    "type": "thing"
+  },
+  {
+    "name": "parking_pole",
+    "type": "thing"
+  },
+  {
+    "name": "barrier_gate",
+    "type": "thing"
+  },
+  {
+    "name": "height_restriction_bar",
+    "type": "thing"
+  },
+  {
+    "name": "guardrail",
+    "type": "thing"
+  },
+  {
+    "name": "wooden_pole",
+    "type": "thing"
+  },
+  {
+    "name": "road_stake",
+    "type": "thing"
+  },
+  {
+    "name": "curb",
+    "type": "thing"
+  },
+  {
+    "name": "diversion_line",
+    "type": "stuff"
+  },
+  {
+    "name": "road_divider",
+    "type": "thing"
+  },
+  {
+    "name": "road_dividing_line",
+    "type": "stuff"
+  },
+  {
+    "name": "speed_bump",
+    "type": "thing"
+  },
+  {
+    "name": "helipad_marking",
+    "type": "stuff"
+  },
+  {
+    "name": "road_marking",
+    "type": "stuff"
+  },
+  {
+    "name": "traffic_direction_arrow",
+    "type": "stuff"
+  },
+  {
+    "name": "parking_space_marking",
+    "type": "stuff"
+  },
+  {
+    "name": "rockery",
+    "type": "thing"
+  },
+  {
+    "name": "fog",
+    "type": "stuff"
+  },
+  {
+    "name": "clouds",
+    "type": "stuff"
+  },
+  {
+    "name": "shadow",
+    "type": "stuff"
+  },
+  {
+    "name": "irrigation_equipment",
+    "type": "thing"
+  },
+  {
+    "name": "farming_equipment",
+    "type": "thing"
+  },
+  {
+    "name": "ploughing_vehicle",
+    "type": "thing"
+  },
+  {
+    "name": "harvester",
+    "type": "thing"
+  },
+  {
+    "name": "water_tower",
+    "type": "thing"
+  },
+  {
+    "name": "water_tank",
+    "type": "thing"
+  },
+  {
+    "name": "water_horse",
+    "type": "thing"
+  },
+  {
+    "name": "drain_outlet",
+    "type": "thing"
+  },
+  {
+    "name": "water_trough",
+    "type": "thing"
+  },
+  {
+    "name": "well",
+    "type": "thing"
+  },
+  {
+    "name": "manhole_cover",
+    "type": "thing"
+  },
+  {
+    "name": "surfboard",
+    "type": "thing"
+  },
+  {
+    "name": "beach_chair",
+    "type": "thing"
+  },
+  {
+    "name": "swimming_pool_chair",
+    "type": "thing"
+  },
+  {
+    "name": "umbrella",
+    "type": "thing"
+  },
+  {
+    "name": "chair",
+    "type": "thing"
+  },
+  {
+    "name": "springboard",
+    "type": "thing"
+  },
+  {
+    "name": "water_slide",
+    "type": "thing"
+  },
+  {
+    "name": "lifebuoy",
+    "type": "thing"
+  },
+  {
+    "name": "cool_seat",
+    "type": "thing"
+  },
+  {
+    "name": "roof_truss",
+    "type": "thing"
+  },
+  {
+    "name": "satellite_antenna",
+    "type": "thing"
+  },
+  {
+    "name": "roof_equipment",
+    "type": "thing"
+  },
+  {
+    "name": "cave_entrance",
+    "type": "thing"
+  },
+  {
+    "name": "tunnel_entrance",
+    "type": "thing"
+  },
+  {
+    "name": "amusement_park_equipment",
+    "type": "thing"
+  },
+  {
+    "name": "air_conditioning_equipment",
+    "type": "thing"
+  },
+  {
+    "name": "pavilion",
+    "type": "thing"
+  },
+  {
+    "name": "tombstone",
+    "type": "thing"
+  },
+  {
+    "name": "stele",
+    "type": "thing"
+  },
+  {
+    "name": "statue",
+    "type": "thing"
+  },
+  {
+    "name": "balcony",
+    "type": "thing"
+  },
+  {
+    "name": "monument",
+    "type": "thing"
+  },
+  {
+    "name": "chimney",
+    "type": "thing"
+  },
+  {
+    "name": "construction_equipment",
+    "type": "thing"
+  },
+  {
+    "name": "tower_crane",
+    "type": "thing"
+  },
+  {
+    "name": "crane",
+    "type": "thing"
+  },
+  {
+    "name": "rock_mortar",
+    "type": "thing"
+  },
+  {
+    "name": "iron_rod",
+    "type": "thing"
+  },
+  {
+    "name": "steel_pipe",
+    "type": "thing"
+  },
+  {
+    "name": "sandbag",
+    "type": "thing"
+  },
+  {
+    "name": "concrete_mixing_facility",
+    "type": "thing"
+  },
+  {
+    "name": "industrial_container",
+    "type": "thing"
+  },
+  {
+    "name": "conveying_equipment",
+    "type": "thing"
+  },
+  {
+    "name": "conveyor_belt",
+    "type": "thing"
+  },
+  {
+    "name": "storage_tank",
+    "type": "thing"
+  },
+  {
+    "name": "underground_storage_tank",
+    "type": "thing"
+  },
+  {
+    "name": "oil_tank",
+    "type": "thing"
+  },
+  {
+    "name": "liquid_storage_tank",
+    "type": "thing"
+  },
+  {
+    "name": "fuel_storage_tank",
+    "type": "thing"
+  },
+  {
+    "name": "gas_tank",
+    "type": "thing"
+  },
+  {
+    "name": "concrete_tank",
+    "type": "thing"
+  },
+  {
+    "name": "cement_tank",
+    "type": "thing"
+  },
+  {
+    "name": "oil_refining_tank",
+    "type": "thing"
+  },
+  {
+    "name": "circular_treatment_tank",
+    "type": "thing"
+  },
+  {
+    "name": "sedimentation_tank",
+    "type": "thing"
+  },
+  {
+    "name": "industrial_materials",
+    "type": "stuff"
+  },
+  {
+    "name": "loading_and_unloading_platform",
+    "type": "thing"
+  },
+  {
+    "name": "lifting_device",
+    "type": "thing"
+  },
+  {
+    "name": "transport_pipeline",
+    "type": "thing"
+  },
+  {
+    "name": "oil_pipeline",
+    "type": "thing"
+  },
+  {
+    "name": "gas_pipeline",
+    "type": "thing"
+  },
+  {
+    "name": "pipeline_structure",
+    "type": "thing"
+  },
+  {
+    "name": "cement_pipe",
+    "type": "thing"
+  },
+  {
+    "name": "wind_power_machine",
+    "type": "thing"
+  },
+  {
+    "name": "wind_turbine",
+    "type": "thing"
+  },
+  {
+    "name": "wind_turbine_blades",
+    "type": "thing"
+  },
+  {
+    "name": "solar_panel",
+    "type": "thing"
+  },
+  {
+    "name": "roof_solar_panel",
+    "type": "thing"
+  },
+  {
+    "name": "substation_equipment",
+    "type": "thing"
+  },
+  {
+    "name": "high_voltage_line",
+    "type": "thing"
+  },
+  {
+    "name": "electric_tower",
+    "type": "thing"
+  },
+  {
+    "name": "electric_pole",
+    "type": "thing"
+  },
+  {
+    "name": "cable",
+    "type": "thing"
+  },
+  {
+    "name": "high_voltage_power_lines",
+    "type": "thing"
+  },
+  {
+    "name": "wastewater_treatment_facilities",
+    "type": "thing"
+  },
+  {
+    "name": "wastewater_treatment_plant",
+    "type": "thing"
+  },
+  {
+    "name": "recycling_processing_plant",
+    "type": "thing"
+  },
+  {
+    "name": "stone_mining_machine",
+    "type": "thing"
+  },
+  {
+    "name": "coal_mining_machine",
+    "type": "thing"
+  },
+  {
+    "name": "excavator",
+    "type": "thing"
+  },
+  {
+    "name": "oil_extraction_machine",
+    "type": "thing"
+  },
+  {
+    "name": "oil_well",
+    "type": "thing"
+  },
+  {
+    "name": "oil_pipe",
+    "type": "thing"
+  },
+  {
+    "name": "oil_pump",
+    "type": "thing"
+  },
+  {
+    "name": "shipbuilding_materials",
+    "type": "stuff"
+  },
+  {
+    "name": "cargo_container",
+    "type": "thing"
+  },
+  {
+    "name": "floating_fence",
+    "type": "thing"
+  },
+  {
+    "name": "fishing_net",
+    "type": "thing"
+  },
+  {
+    "name": "stadium_seats",
+    "type": "thing"
+  },
+  {
+    "name": "netball_court_seat",
+    "type": "thing"
+  },
+  {
+    "name": "tennis_court_lamppost",
+    "type": "thing"
+  },
+  {
+    "name": "golf_hole",
+    "type": "thing"
+  },
+  {
+    "name": "ping_pong_table",
+    "type": "thing"
+  },
+  {
+    "name": "football_goal",
+    "type": "thing"
+  },
+  {
+    "name": "football_goal_net",
+    "type": "thing"
+  },
+  {
+    "name": "pitching_net",
+    "type": "thing"
+  },
+  {
+    "name": "scoreboard",
+    "type": "thing"
+  },
+  {
+    "name": "stadium_street_lights",
+    "type": "thing"
+  },
+  {
+    "name": "hot_air_balloon",
+    "type": "thing"
+  },
+  {
+    "name": "swing",
+    "type": "thing"
+  },
+  {
+    "name": "bus_stop_sign",
+    "type": "thing"
+  },
+  {
+    "name": "charging_pile",
+    "type": "thing"
+  },
+  {
+    "name": "rack",
+    "type": "thing"
+  },
+  {
+    "name": "antenna_rack",
+    "type": "thing"
+  },
+  {
+    "name": "tent",
+    "type": "thing"
+  },
+  {
+    "name": "campsite",
+    "type": "thing"
+  },
+  {
+    "name": "picnic_table",
+    "type": "thing"
+  },
+  {
+    "name": "stacked_objects",
+    "type": "thing"
+  },
+  {
+    "name": "material_yard",
+    "type": "thing"
+  },
+  {
+    "name": "bench",
+    "type": "thing"
+  },
+  {
+    "name": "abandoned_materials",
+    "type": "stuff"
+  },
+  {
+    "name": "trash_bin",
+    "type": "thing"
+  },
+  {
+    "name": "scrap_metal",
+    "type": "stuff"
+  },
+  {
+    "name": "billboard",
+    "type": "thing"
+  },
+  {
+    "name": "fence",
+    "type": "thing"
+  },
+  {
+    "name": "anemometer",
+    "type": "thing"
+  },
+  {
+    "name": "windsock",
+    "type": "thing"
+  },
+  {
+    "name": "pallet_stack",
+    "type": "thing"
+  },
+  {
+    "name": "paved_area",
+    "type": "stuff"
+  },
+  {
+    "name": "asphalt_road",
+    "type": "stuff"
+  },
+  {
+    "name": "cement_road",
+    "type": "stuff"
+  },
+  {
+    "name": "rural_road",
+    "type": "stuff"
+  },
+  {
+    "name": "field_road",
+    "type": "stuff"
+  },
+  {
+    "name": "corrugated_iron_roof",
+    "type": "thing"
+  },
+  {
+    "name": "color_steel_roof",
+    "type": "thing"
+  },
+  {
+    "name": "transparent_roof",
+    "type": "thing"
+  },
+  {
+    "name": "roof",
+    "type": "thing"
+  },
+  {
+    "name": "warehouse",
+    "type": "thing"
+  },
+  {
+    "name": "industrial_equipment",
+    "type": "thing"
+  },
+  {
+    "name": "orchard",
+    "type": "stuff"
+  },
+  {
+    "name": "archway",
+    "type": "thing"
+  },
+  {
+    "name": "building_materials",
+    "type": "stuff"
+  }
+]
