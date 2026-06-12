@@ -39,6 +39,12 @@ Figure 3. Overview of the Entity contextualized knowledge graph, with 574 entity
 ## 🔥 What is the land entity recognizability boundary in terms of the spatial resolution of the satellite remote sensing images?
 While the proposed model is trained and evaluated primarily on sub-meter imagery (~0.5 m), the recognizability of land entities varies across scales. At ~0.5 m resolution, both object entities (e.g., vehicle, tree, airplane) and material entities (e.g., forest, water) can be effectively distinguished. When the resolution decreases to 10 m (e.g., Sentinel-2), only 20.9% entity types remain recognizable, and only 12% entity types remain when the resolution further degraded to 30m resolution (i.e., Landsat-9). The specific curation of the recognizability boundary for each entity is provided in [LERP_Resolution_Recognizability.xlsx](https://pan.baidu.com/s/1gdxDoNEAdx0WO3xRnk-Omg), code=ewbm.
 
+## 🔥 How is the effectiveness of LEFM visually and quantitatively in large-scale area
+
+<img width="1080" height="1229" alt="image" src="https://github.com/user-attachments/assets/6440db8f-7103-40d1-9a00-1a7d81416f9a" />
+Figure 4. Visual comparison of conventional land cover mapping and our land entity mapping results.
+
+For quantitative assessment, owing to the limited labelled samples of 593 entities, we instead aggregated the 593 entity categories into primary 10 land cover classes and the resolution was harmonized to 10-m grid to aligned with the validation samples chosed from WorldCover, FROMGLC10, etc. The specific aggregation principle for each entity types in provided in [LERP_593_to_10class_aggregation.json](https://pan.baidu.com/s/1MiCmpssI_fc4zQYUuOhAJQ), code=tmrs.
 
 ## Acknowledgments
 [mmpretain](https://github.com/open-mmlab/mmpretrain), 
