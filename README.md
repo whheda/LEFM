@@ -1,6 +1,9 @@
 # Land Entity Foundation Model (LEFM)
 remote sensing visual-language foundation model for Open World Land Entity Representation of Earth Observation
 
+## 📢 Latest Updates
+[2025.06.xx] Add the code and pretrained model soon.
+[2026.06.12] Add the essential supplementary files.
 
 ## supplementary info
 The curation details of Land Entity Representation Paradigm (LERP), the detail inspection of the established 
