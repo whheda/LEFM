@@ -53,4 +53,7 @@ For quantitative assessment, owing to the limited labelled samples of 593 entiti
 [HIPIE](https://github.com/berkeley-hipie/HIPIE), 
 [SkysenseO](https://github.com/zqcrafts/SkySense-O), 
 [SkySensePlusPlus](https://github.com/kang-wu/SkySensePlusPlus), 
-[ODISE](https://github.com/NVlabs/ODISE).
+[ODISE](https://github.com/NVlabs/ODISE), 
+[Mask2Former](https://github.com/facebookresearch/Mask2Former), 
+[MaskDINO](https://github.com/facebookresearch/Mask2Former).
+
